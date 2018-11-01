@@ -37,7 +37,39 @@ The sprint summary should contain the following:
 
 ## Ritual: The Sprint Demo
 
+A sprint demo is where the team sits down together with stakeholders and product owner and shows the result of what has actually been done. Some features will be more visual in it's nature and will always be easier to show. But remember that if a PBI solves a problem for someone, there should always be a way of proving or showing that the system now solves it.
+
+The meeting can be either physical or remote. The important thing is that all the necessary stakeholders and representatives from the team is available.
+
+The meeting must be held on the day after the sprint ends (and the next sprint starts) or the day before or after to avoid postponing the next sprint. Since committing to the next sprint is part of what is done in the Sprint Demo no work on the next sprint can begin before the meeting is held.
+
+Since the team may be working on multiple projects in parallel in the sprint, and each project require a Sprint Demo, the meetings must be concise and efficient so that they can be held in 1-2 days.
+
+The team is expected to have prepared the Sprint Summary before the meeting.
+
+The timebox for the meeting is 1 hour.
+
+The agenda for a sprint demo is as follows:
+
+- The team presents the sprint summary
+- The team demos the features
+- The customer is asked to accept the result of the sprint, meaning that the team has done everything within it's power to deliver on the needs specified in the committed PBIs
+- The team presents what they are ready to commit to for the next sprint, based on the priority set out in the backlog by the product owner
+
 ## Ritual: The Stand Up
+
+Every day, the team needs to have a status update. This is to get everyone up to date on how the current sprint is progressing. The team captain is the moderator of the meeting.
+
+The meeting is tactical in it's nature. The timebox for the meeting is **15 minutes**. This can not be extended and it's the moderators job to make sure it's not.
+
+The agenda for a stand up is as follows:
+
+- Everyone reports on what they did yesterday, what they plan to do today and whether they think they will need any support from someone else with any specific PBI. There should be **no** discussion around what or how the work will get done. The stand up is not a design meeting. If a person states that they need help, that is noted down by the moderator.
+- The moderator looks at the burn down chart to gauge whether there might be a concern for the sprint. If anyone stated that they need help or the burndown chart is starting to diverge, the team must quickly determine what the problem is and make a decision about which members of the team will scramble to solve the problem. Note that the stand up is **not** a place to be discussing what needs to be done, but rather assign who will handle the problem.
+
+### Stand Up Meeting Minutes
+
+Should be written by the moderator. Should be short and simple and only contain exceptional information. Should not contain what people have done or what they plan to do. This information should be available within the project management tool by task assignment etc. But any issue that has been raised must be noted down and the assigned members that is tasked with solving the problem. This information is critical when it comes to compiling the Sprint Summary at the end of the sprint.
 
 ## Bugs
 
