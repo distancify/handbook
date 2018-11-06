@@ -1,4 +1,4 @@
-# Communication Channels
+# Internal Communication
 
 ## Text Based Communications
 
@@ -27,6 +27,10 @@ Here are some tips to make sure you have effective video meetings:
 - Do not use the built in speaker in your monitor if you use your webcam as a mic. The sound from the monitor will travel through the material and into the webcam.
 - Make sure you have some sound dampening materials in the room, such as a floor carpet and curtains.
 - Test your sound and mic before the meeting starts. Make sure you don't have any feedback loop or echo where sound from your speakers can reach your mic.
+
+### Sound discipline aka mute your mic
+
+When there's more than 3 people in a meeting, you should get into the habit of always muting yourself when you're not talking. The reason is that the more people you get into a video meeting, the more unintended noise is going to occur. Someone coughing or unintentionally scratching their microphone adds up to an overall noisy environment. One reason why this happens in video meetings is because of the technology. All sound is equal in a video meeting. You can't direct your focus toward the person talking because. If everyone is having a headset on, it's like having 3+ people talking a few centimeters from your ears.
 
 ## Favor Text Over Talk
 

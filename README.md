@@ -7,5 +7,6 @@ If you find anything missing, or something that needs to change, please submit a
 ## Sections
 
 * [Our Values](https://github.com/distancify/handbook/blob/master/our-values.md)
-* [Communication Channels](https://github.com/distancify/handbook/blob/master/communication-channels.md)
+* [Internal Communication](https://github.com/distancify/handbook/blob/master/internal-communication.md)
+* [External Communication](https://github.com/distancify/handbook/blob/master/external-communication.md)
 * [The Sprint Cycle](https://github.com/distancify/handbook/blob/master/the-sprint-cycle.md)
