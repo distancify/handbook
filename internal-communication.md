@@ -37,3 +37,11 @@ When there's more than 3 people in a meeting, you should get into the habit of a
 We all live in various time zones and squeezing everybody into syncronous meetings can be extremely time consuming. First of all, everybody in the meeting needs to adjust their schedule to be there on time. This will always be wasteful as most people will not be able to go into any deep work for about 30 minutes before and after the meeting.
 
 Secondly, physical or video meetings leave a lot fewer traces than text based conversations. Sometimes it's necessary to go back and figure out why certain decisions where made. Unless you have very detailed meeting minutes, this is going to be difficult if all decisions where made in meetings.
+
+## Avatar Policy
+
+All systems used for communications within the company should use the same avatar.
+
+We recommend connecting your distancify.com e-mail address to [Gravatar](https://www.gravatar.com).
+
+The avatar should be a real picture of you to help new members of Distancify to recognize you.
