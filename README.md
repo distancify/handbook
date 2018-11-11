@@ -22,3 +22,7 @@ If you find anything missing, or something that needs to change, please submit a
 * [General Coding Guidelines](https://github.com/distancify/handbook/blob/master/general-coding-guidelines.md)
 * [General Branching Strategy](https://github.com/distancify/handbook/blob/master/branching-strategy.md)
 * [On-call duty](https://github.com/distancify/handbook/blob/master/on-call-duty.md)
+
+### Offices
+
+* [Skövde, Gothia Science Park](https://github.com/distancify/handbook/blob/master/office-skovde.md)
