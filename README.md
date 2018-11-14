@@ -17,11 +17,12 @@ If you find anything missing, or something that needs to change, please submit a
 
 ### Development
 
+* [Readability over Efficiency](https://github.com/distancify/handbook/blob/master/readability-over-efficiency.md)
 * [The Sprint Cycle](https://github.com/distancify/handbook/blob/master/the-sprint-cycle.md)
-* [Code review](https://github.com/distancify/handbook/blob/master/code-review.md)
-* [General Coding Guidelines](https://github.com/distancify/handbook/blob/master/general-coding-guidelines.md)
-* [General Branching Strategy](https://github.com/distancify/handbook/blob/master/branching-strategy.md)
-* [On-call duty](https://github.com/distancify/handbook/blob/master/on-call-duty.md)
+* [Code Review](https://github.com/distancify/handbook/blob/master/code-review.md)
+* [Branching](https://github.com/distancify/handbook/blob/master/branching.md)
+* [On-call Duty](https://github.com/distancify/handbook/blob/master/on-call-duty.md)
+* [Logging Levels](https://github.com/distancify/handbook/blob/master/logging-levels.md)
 
 ### Offices
 
