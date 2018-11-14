@@ -34,4 +34,4 @@ This can make it almost impossible to follow the flow of a program if you're not
 
 When relying on conventions, you also become dependent on those conventions never changing. This is generally not a problem for consumers of an API or platform. But as a developer of said APIs and platforms, introducing a convention is an **enormous** commitment. Breaking the contract of a convention is a huge deal, especially since breaking a convention generally don't show up at compile time and can be hard to trace for people relying on your code.
 
-This is why we at Distancify favor *configuration over convention*, preferably with sensible defaults.
+This is why we favor *configuration over convention*, preferably with sensible defaults.
