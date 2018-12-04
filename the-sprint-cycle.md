@@ -41,7 +41,7 @@ A sprint demo is where the team sits down together with stakeholders and product
 
 The meeting can be either physical or remote. The important thing is that all the necessary stakeholders and representatives from the team is available.
 
-The meeting must be held on the day after the sprint ends (and the next sprint starts) or the day before or after to avoid postponing the next sprint. Since committing to the next sprint is part of what is done in the Sprint Demo no work on the next sprint can begin before the meeting is held.
+The meeting should be held within the last two days of the sprint ends to avoid interfering with the next sprint. Since committing to the next sprint is part of what is done in the Sprint Demo no work on the next sprint can begin before the meeting is held.
 
 Since the team may be working on multiple projects in parallel in the sprint, and each project require a Sprint Demo, the meetings must be concise and efficient so that they can be held in 1-2 days.
 
