@@ -14,6 +14,7 @@ If you find anything missing, or something that needs to change, please submit a
 * [Equipment](https://github.com/distancify/handbook/blob/master/equipment.md)
 * [Calendar, Vacation and Leave](https://github.com/distancify/handbook/blob/master/calendar-vacation-and-leave.md)
 * [Travel Guidelines](https://github.com/distancify/handbook/blob/master/travel-guidelines.md)
+* [Project Roles](https://github.com/distancify/handbook/blob/master/project-roles.md)
 
 ### Development
 
