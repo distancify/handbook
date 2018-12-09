@@ -20,7 +20,6 @@ In order to effectively read and understand the content of this Handbook, it's g
 
 ### Development
 
-* On-call Duty
 * [Open Source](development/open-source.md)
 
 #### Guidelines
@@ -28,6 +27,7 @@ In order to effectively read and understand the content of this Handbook, it's g
 * [Readability over Efficiency](development/guidelines/readability-over-efficiency.md)
 * [Logging Levels](development/guidelines/logging-levels.md)
 * [Branching](development/guidelines/branching.md)
+* [Commit Messages](development/guidelines/commit-messages.md)
 
 #### Process
 
@@ -36,6 +36,12 @@ In order to effectively read and understand the content of this Handbook, it's g
 * Managing work
 * Estimating work
 * [Bugs](development/process/bugs.md)
+
+#### Incidents
+
+* On-call Duty
+* Standard Operating Proceedure
+* Incident Reports
 
 ### Offices
 
