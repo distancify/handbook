@@ -1,3 +1,5 @@
+[Handbook](../README.md) / General
+
 # Equipment
 
 We care deeply about efficiency, and there's no way to keep efficient with inefficient gear. So our policy around equipment is simple:

@@ -1,3 +1,5 @@
+[Handbook](../README.md) / General
+
 # Our Values
 
 Distancify is a value-driven company. This means that instead of hiring a PR firm to make a pretty powerpoint with some powerful words, our values actually mean something. Kristoffer and Johan originally started Distancify because they saw that the IT business where broken. Too many vendors got away with too much. An overheated economy and a hype-driven e-commerce industry was the perfect storm to create companies out of thin air that charged hefty hourly fees but not delivering any actual value.

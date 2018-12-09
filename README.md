@@ -8,24 +8,30 @@ If you find anything missing, or something that needs to change, please submit a
 
 ### General
 
-* [Our Values](https://github.com/distancify/handbook/blob/master/our-values.md)
-* [Internal Communication](https://github.com/distancify/handbook/blob/master/internal-communication.md)
-* [External Communication](https://github.com/distancify/handbook/blob/master/external-communication.md)
-* [Equipment](https://github.com/distancify/handbook/blob/master/equipment.md)
-* [Calendar, Vacation and Leave](https://github.com/distancify/handbook/blob/master/calendar-vacation-and-leave.md)
-* [Travel Guidelines](https://github.com/distancify/handbook/blob/master/travel-guidelines.md)
-* [Project Roles](https://github.com/distancify/handbook/blob/master/project-roles.md)
+* [Our Values](general/our-values.md)
+* [Internal Communication](general/internal-communication.md)
+* [External Communication](general/external-communication.md)
+* [Equipment](general/equipment.md)
+* [Calendar, Vacation and Leave](general/calendar-vacation-and-leave.md)
+* [Travel Guidelines](general/travel-guidelines.md)
 
 ### Development
 
-* [Readability over Efficiency](https://github.com/distancify/handbook/blob/master/readability-over-efficiency.md)
-* [The Sprint Cycle](https://github.com/distancify/handbook/blob/master/the-sprint-cycle.md)
-* [Code Review](https://github.com/distancify/handbook/blob/master/code-review.md)
-* [Branching](https://github.com/distancify/handbook/blob/master/branching.md)
-* [On-call Duty](https://github.com/distancify/handbook/blob/master/on-call-duty.md)
-* [Logging Levels](https://github.com/distancify/handbook/blob/master/logging-levels.md)
-* [Open Source](https://github.com/distancify/handbook/blob/master/open-source.md)
+* On-call Duty
+* [Open Source](development/open-source.md)
+
+#### Guidelines
+
+* [Readability over Efficiency](development/guidelines/readability-over-efficiency.md)
+* [Logging Levels](development/guidelines/logging-levels.md)
+* [Branching](development/guidelines/branching.md)
+
+#### Process
+
+* [Project Roles](development/process/project-roles.md)
+* [The Sprint Cycle](development/process/the-sprint-cycle.md)
+* Code Review
 
 ### Offices
 
-* [Skövde, Gothia Science Park](https://github.com/distancify/handbook/blob/master/office-skovde.md)
+* [Gothia Science Park, Skövde, Sweden](offices/gsp.md)

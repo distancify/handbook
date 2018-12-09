@@ -1,4 +1,6 @@
-# Office - Skövde, Gothia Science Park
+[Handbook](../README.md) / Offices
+
+# Gothia Science Park, Skövde, Sweden
 
 ## Car Parking
 
