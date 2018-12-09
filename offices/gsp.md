@@ -10,7 +10,7 @@ Contanct Kristoffer to get your ticket. The license is registered on your car an
 
 ### Visitors
 
-If you're visiting, you can find a parking license for the day in the entrance of "Växthuset".
+If you're visiting, you can find a parking ticket for the day in the entrance of "Växthuset".
 
 ## Conference Room
 

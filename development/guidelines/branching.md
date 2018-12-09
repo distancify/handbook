@@ -12,7 +12,7 @@ All development, both PBIs and bugs are done in "feature" branches  created from
 
 When features are done, the "feature" branch is merged to the **master** branch following a code review. All code merged into **master** must go through a code review.
 
-![Outline of the branching strategy](https://github.com/distancify/handbook/blob/master/branching.png)
+![Outline of the branching strategy](branching.png)
 
 ## development branch
 
