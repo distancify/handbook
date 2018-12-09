@@ -1,4 +1,6 @@
-# General Branching Strategy
+[Handbook](../../README.md) / Development / Guidelines
+
+# Branching
 
 Some projects may have different branching strategies for historic or other reasons, but this document aims to explain the general strategy we use when developing.
 

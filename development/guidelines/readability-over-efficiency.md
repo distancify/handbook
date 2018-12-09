@@ -1,3 +1,5 @@
+[Handbook](../../README.md) / Development / Guidelines
+
 # Readability over Efficiency
 
 It's a common misconception that the ultimate goal of coding is to program what a computer should do given different scenarios. But if this where true then we would still be writing in an assembly language. This misconception has led to programming being taught as a skill of understanding syntax. Focusing on how to make the computer perform specific actions. This approach to software development have then given birth to software all around the world overlooking one key aspect the cost of software. The most expensive cost of software is **maintenance**.
