@@ -4,27 +4,25 @@
 
 ## Sprint
 
-A sprint is a timeboxed set of time. Each sprint should be comparable in the number of mandays. Planned vacation and national holidays should be taken into account when mapping out upcoming sprints to make sure each sprint is as comparable as possible. However, there will always be unforseen events that occur and limits our resources, such as sick days and other emergencies. These are expected to be averaged out over time and should not be taken into account when planning sprints.
+A sprint is a timeboxed set of time. Each sprint should be exactly the same amount of calendar days. Planned vacation and national holidays should be taken into account when mapping out upcoming sprints to make sure forecasts are as accurate as possible. However, there will always be unforseen events that occur and limits our resources, such as sick days and other emergencies. These are expected to be averaged out over time and should not be taken into account when planning sprints.
 
-In summary, these events may increase the number of (calendar) days in a sprint:
+A sprint is never extended beyond it's original end date. Whatever work has not been done by the end of the sprint should be taken as a sign that the estimation was off and that we need to plan according to the new information we now have.
 
-- Planned vacation or similar reasons we might lack people, such as planned parental leave
+These events may decrease the commitment in a sprint:
+
+- Planned vacation or similar reasons we might lack people, such as planned parental leave or a long term sick leave
 - National holidays
 - Team building events
 
-These events may not increase the number of (calendar) days in a sprint:
-
-- Sick days
-- Bad luck
-- Mistakes or obvious misunderstandings or miscommunications made by us
-
-Note that a sprint can never be extended **ONCE IT HAS STARTED**. The number of calendar days in a sprint is set before it starts and never changes.
-
 ## Sprint Commitment
 
-Every sprint should be of equal size. We do not strive to increase the sprint size for a given project over time. We favor predictability over sheer output. However, we hope, and always strive, to increase the overall velocity of the team by removing things that slows us down. We don't increase velocity by working longer hours. We save our resources for those times where we fight an uphill battle. An uphill battle brought upon us by ourselves by mistakes or over-promising.
+Before a new sprint starts, the Client Sponsor and Product Owner will communicate to the team the amount of work that the Client is ready to purchase for the next sprint. In a utopian world, the Client would want to go as far as possible as soon as possible and so would ask the team to commit to whatever it possibly could. In a real world though, there are budgets, deadlines and marketing on the Client's side that sometimes leads to a lower effort.
 
-It is the team that ultimately makes the commitment and delivers it to the customer and product owner. From the start of the sprint to the end of it, the team has full ownership of delivering on the needs specified in the items in the sprint.
+Once the level of effort has been established the team will pull the items from the top of the current backlog that they gauge as committable. Should the team not have enough available resources for the upcoming Sprint, the Client's requested effort should be regarded as a suggested maximum effort but make a smaller commitment.
+
+Sometimes, there are technical reasons why the order of the backlog can't be implemented in the suggested order. In this case, the team is free to pick items further down the backlog and present the reasons for this during the [Sprint Demo](#sprint-demo).
+
+It is the team that ultimately makes the commitment and delivers it to the Client and Product Owner. From the start of the sprint to the end of it, the team has full ownership of delivering on the needs specified in the items in the sprint.
 
 ## Sprint Summary
 
@@ -37,7 +35,9 @@ The sprint summary should contain the following:
 - A list of which PBIs has been delivered
 - A list if things that was done, PBIs or otherwise, that was not specified in the commitment but was done anyway
 
-## Ritual: The Sprint Demo
+## Rituals
+
+### Sprint Demo
 
 A sprint demo is where the team sits down together with stakeholders and product owner and shows the result of what has actually been done. Some features will be more visual in it's nature and will always be easier to show. But remember that if a PBI solves a problem for someone, there should always be a way of proving or showing that the system now solves it.
 
@@ -58,7 +58,7 @@ The agenda for a sprint demo is as follows:
 - The customer is asked to accept the result of the sprint, meaning that the team has done everything within it's power to deliver on the needs specified in the committed PBIs
 - The team presents what they are ready to commit to for the next sprint, based on the priority set out in the backlog by the product owner
 
-## Ritual: The Stand Up
+### Stand Up
 
 Every day, the team needs to have a status update. This is to get everyone up to date on how the current sprint is progressing. The team captain is the moderator of the meeting.
 
@@ -69,22 +69,6 @@ The agenda for a stand up is as follows:
 - Everyone reports on what they did yesterday, what they plan to do today and whether they think they will need any support from someone else with any specific PBI. There should be **no** discussion around what or how the work will get done. The stand up is not a design meeting. If a person states that they need help, that is noted down by the moderator.
 - The moderator looks at the burn down chart to gauge whether there might be a concern for the sprint. If anyone stated that they need help or the burndown chart is starting to diverge, the team must quickly determine what the problem is and make a decision about which members of the team will scramble to solve the problem. Note that the stand up is **not** a place to be discussing what needs to be done, but rather assign who will handle the problem.
 
-### Stand Up Meeting Minutes
+#### Stand Up Meeting Minutes
 
 Should be written by the moderator. Should be short and simple and only contain exceptional information. Should not contain what people have done or what they plan to do. This information should be available within the project management tool by task assignment etc. But any issue that has been raised must be noted down and the assigned members that is tasked with solving the problem. This information is critical when it comes to compiling the Sprint Summary at the end of the sprint.
-
-## Bugs
-
-We will never estimate bugs. Bugs are mistakes generated by us and we take full responsibility for our mistakes. Therefor Bugs should slow us down. They should lower the velocity. We must work harder to keep our pace if we introduce bugs.
-
-For this to work, we need to have a clear definition of what a bug is.
-
-### A bug is something that is:
-
-- Obviously broken or
-- Prevents the user from accomplishing the task that the system is designed to perform or
-- Prevents the system to fulfill the need that the system was designed to fulfill
-
-### A bug is not (unless it's also anything of the above):
-
-A behavior that is unexpected from the user's perspective. Because expectations are subjective and there are billions of people with different expectations. This is merely a matter of quality. A high quality system meets the expectations of most of it's users.

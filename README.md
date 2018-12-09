@@ -30,7 +30,9 @@ If you find anything missing, or something that needs to change, please submit a
 
 * [Project Roles](development/process/project-roles.md)
 * [The Sprint Cycle](development/process/the-sprint-cycle.md)
-* Code Review
+* [Bugs](development/process/bugs.md)
+* Managing work
+* Estimating work
 
 ### Offices
 
