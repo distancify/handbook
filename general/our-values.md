@@ -36,3 +36,4 @@ Examples of behaviour that this leads to:
 - We play on the best foot
 - We are transparent with what is happening in the company among ourselves and toward our customers
 - We take ownership and don't blame others
+- We value progress over work, because reporting how much time you spent at work and hiding what progress has been made is dishonest
