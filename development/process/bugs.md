@@ -16,3 +16,42 @@ For this to work, we need to have a clear definition of what a bug is.
 
 - Something that can be improved
 - A behavior that is unexpected from the user's perspective. Because expectations are subjective and there are billions of people with different expectations. This is merely a matter of quality. A high quality system meets the expectations of most of it's users.
+
+## Anatomy of a Bug
+
+Since by definition, a bug is always tied to previous work, we can always assume that there is always a PBI that introduced the bug. Therefor, bugs always need to reference the PBI that it originated from. A bug always re-opens a PBI until the fix is done, judging by the Definition of Done for the team.
+
+Apart from a reference to a previous PBI, a bug must include:
+
+- The steps needed to reproduce/demonstrate the issue, either as a numbered list or a video. Clarity is more important than format.
+- An explanation why this is a bug and what the expected behaviour should be
+
+Feel free to use the following template when creating a bug:
+
+```
+Perform the following steps:
+
+1.
+
+According to the PBI that stated [...]
+At step #, the system should have [...]
+```
+
+Here's an example of a good bug report:
+
+```
+Perform the following steps:
+
+1. Go to a product listings page
+2. Resize the screen/viewport so that it's smaller than 768px
+3. Notice that the facets in the sidebar disappears as the viewport shrink
+
+According to the PBI that stated that visitors (regardless of device) should be able to filter the products.
+At step 3, the system should have allowed the user to filter the products using the facets.
+```
+
+## Managing bugs in Azure DevOps (Visual Studio Team Services)
+
+In Azure DevOps, Team Sprint Boards are configured to manage bugs as sub-tasks of PBIs. This means that all bugs must have a parent PBI, and can not have child Tasks. Apart from that, Bugs and managed in the same way as regular Tasks.
+
+When a bug is found in a PBI marked as "Done", the PBI must be re-opened until the bug is fixed. Bugs are generally put into the the current sprint.

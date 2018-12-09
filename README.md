@@ -4,6 +4,8 @@ Welcome to Distancify's Employee Handbook. Here you will, or at least should, fi
 
 If you find anything missing, or something that needs to change, please submit an issue.
 
+In order to effectively read and understand the content of this Handbook, it's good to keep a reference to the [Terminology](general/terminology.md) article.
+
 ## Sections
 
 ### General
@@ -14,6 +16,7 @@ If you find anything missing, or something that needs to change, please submit a
 * [Equipment](general/equipment.md)
 * [Calendar, Vacation and Leave](general/calendar-vacation-and-leave.md)
 * [Travel Guidelines](general/travel-guidelines.md)
+* [Terminology](general/terminology.md)
 
 ### Development
 
@@ -30,9 +33,9 @@ If you find anything missing, or something that needs to change, please submit a
 
 * [Project Roles](development/process/project-roles.md)
 * [The Sprint Cycle](development/process/the-sprint-cycle.md)
-* [Bugs](development/process/bugs.md)
 * Managing work
 * Estimating work
+* [Bugs](development/process/bugs.md)
 
 ### Offices
 
