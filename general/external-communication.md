@@ -10,7 +10,7 @@ The primary ways of communicating with externally is through e-mail. Be sure to 
 - Current role
 - E-mail
 - Phone number
-- Distancify Logotype
+- Distancify Logotype (you can use [https://distancify.com/distancify_email_signature_logo.png](https://distancify.com/distancify_email_signature_logo.png))
 - Link to Distancify.com
 - Company address
 
