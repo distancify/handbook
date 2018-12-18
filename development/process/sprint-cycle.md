@@ -26,7 +26,7 @@ It is the team that ultimately makes the commitment and delivers it to the Clien
 
 ## Sprint Summary
 
-At the end of each sprint, the team compiles a sprint summary. This summary should be in written form and distributed to the custoemr and product owner, often as part of the Sprint Review meeting.
+At the end of each sprint, the team compiles a sprint summary. This summary should be in written form and distributed to the customer and product owner, often as part of the [Sprint Review](sprint-review) meeting.
 
 The sprint summary should contain the following:
 
@@ -47,16 +47,16 @@ The meeting should be held within the last two days of the sprint ends to avoid 
 
 Since the team may be working on multiple projects in parallel in the sprint, and each project require a Sprint Review, the meetings must be concise and efficient so that they can be held within the last 2 days of the sprint.
 
-The team is expected to have prepared the [Sprint Summary](sprint-summary) before the meeting.
+The team is expected to have prepared the written [Sprint Summary](sprint-summary) before the meeting.
 
-The timebox for the meeting is 1 hour.
+The timebox for the meeting is 1 hour, and it should be recorded.
 
 The agenda for a sprint review is as follows:
 
-- The team presents the sprint summary
-- The team demos the features, which is **done** (and fulfill definition of done)
-- The product owner is asked to accept the result of the sprint, meaning that the team has done everything within it's power to deliver on the needs specified in the committed PBIs
-- The team presents what they are ready to commit to for the next sprint, based on the priority set out in the backlog by the product owner
+- The team presents the sprint summary (and hand it over to the receivers)
+- The team demos the features, which is **done** (fulfill definition of done)
+- The product owner is asked to accept the result of the sprint, meaning that the team has done everything within it's means to deliver on the requirements specified in the committed PBIs
+- The product owner will present (the top of) the backlog to everybody in the Sprint Review together with the desired sprint involvement (budget) from the stakeholders, and based on this will the team decide which PBIs they can commit to in the upcoming sprint
 
 ### Stand Up
 
