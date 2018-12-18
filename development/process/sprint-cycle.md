@@ -20,13 +20,13 @@ Before a new sprint starts, the Client Sponsor and Product Owner will communicat
 
 Once the level of effort has been established the team will pull the items from the top of the current backlog that they gauge as committable. Should the team not have enough available resources for the upcoming Sprint, the Client's requested effort should be regarded as a suggested maximum effort but make a smaller commitment.
 
-Sometimes, there are technical reasons why the order of the backlog can't be implemented in the suggested order. In this case, the team is free to pick items further down the backlog and present the reasons for this during the [Sprint Demo](#sprint-demo).
+Sometimes, there are technical reasons why the order of the backlog can't be implemented in the suggested order. In this case, the team is free to pick items further down the backlog and present the reasons for this during the [Sprint Review](#sprint-review).
 
 It is the team that ultimately makes the commitment and delivers it to the Client and Product Owner. From the start of the sprint to the end of it, the team has full ownership of delivering on the needs specified in the items in the sprint.
 
 ## Sprint Summary
 
-At the end of each sprint, the team compiles a sprint summary. This summary should be in written form and distributed to the custoemr and product owner, often as part of the Sprint Demo meeting.
+At the end of each sprint, the team compiles a sprint summary. This summary should be in written form and distributed to the custoemr and product owner, often as part of the Sprint Review meeting.
 
 The sprint summary should contain the following:
 
@@ -37,25 +37,25 @@ The sprint summary should contain the following:
 
 ## Rituals
 
-### Sprint Demo
+### Sprint Review
 
-A sprint demo is where the team sits down together with stakeholders and product owner and shows the result of what has actually been done. Some features will be more visual in it's nature and will always be easier to show. But remember that if a PBI solves a problem for someone, there should always be a way of proving or showing that the system now solves it.
+A sprint review is where the team sits down together with stakeholders and product owner and shows the result of what has actually been done. Some features will be more visual in it's nature and will always be easier to show. But remember that if a PBI solves a problem for someone, there should always be a way of proving or showing that the system now solves it.
 
-The meeting can be either physical or remote. The important thing is that all the necessary stakeholders and representatives from the team is available.
+The meeting can be either physical or remote (in our case often remote). The important thing is that all the necessary stakeholders and representatives from the team is available.
 
-The meeting should be held within the last two days of the sprint ends to avoid interfering with the next sprint. Since committing to the next sprint is part of what is done in the Sprint Demo no work on the next sprint can begin before the meeting is held.
+The meeting should be held within the last two days of the sprint ends to avoid interfering with the next sprint. Since committing to the next sprint is part of what is done in the Sprint Review no work on the next sprint can begin before the meeting is held, since this meeting is where the commitment for next sprint is done.
 
-Since the team may be working on multiple projects in parallel in the sprint, and each project require a Sprint Demo, the meetings must be concise and efficient so that they can be held in 1-2 days.
+Since the team may be working on multiple projects in parallel in the sprint, and each project require a Sprint Review, the meetings must be concise and efficient so that they can be held within the last 2 days of the sprint.
 
-The team is expected to have prepared the Sprint Summary before the meeting.
+The team is expected to have prepared the [Sprint Summary](sprint-summary) before the meeting.
 
 The timebox for the meeting is 1 hour.
 
-The agenda for a sprint demo is as follows:
+The agenda for a sprint review is as follows:
 
 - The team presents the sprint summary
-- The team demos the features
-- The customer is asked to accept the result of the sprint, meaning that the team has done everything within it's power to deliver on the needs specified in the committed PBIs
+- The team demos the features, which is **done** (and fulfill definition of done)
+- The product owner is asked to accept the result of the sprint, meaning that the team has done everything within it's power to deliver on the needs specified in the committed PBIs
 - The team presents what they are ready to commit to for the next sprint, based on the priority set out in the backlog by the product owner
 
 ### Stand Up
