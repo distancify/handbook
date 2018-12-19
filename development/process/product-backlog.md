@@ -8,9 +8,15 @@ The purpose of the backlog is to help prioritising what is most important to do 
 
 ### Epic
 
+...
+
 ### Product Backlog Item (PBI)
 
+...
+
 ### Sprints
+
+...
 
 ## Backlog Estimation
 
@@ -38,7 +44,7 @@ Estimation takes place in a *Backlog Refinement* meeting, using *Planning Poker*
 
 The meeting is facilitated by the Team Coach.
 
-For each PBI the Product Owner briefly describes the PBI's intent and any specific acceptance criteria. Before estimations, members are allowed to ask for clarifications on aspects that they might not understand. It's important here that members **do not** ask leading questions which might influence the other members estimates.
+For each PBI the Product Owner briefly describes the PBI's intent and any specific acceptance criteria. Before estimations, members are allowed to ask for clarifications on aspects that they might not understand. The clarifications are also noted down on the PBI. It's important here that members **do not** ask leading questions which might influence the other members estimates.
 
 Do not ask:
 > Can we solve this using Excel?
