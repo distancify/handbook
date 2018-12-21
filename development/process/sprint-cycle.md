@@ -24,6 +24,10 @@ Sometimes, there are technical reasons why the order of the backlog can't be imp
 
 It is the team that ultimately makes the commitment and delivers it to the Client and Product Owner. From the start of the sprint to the end of it, the team has full ownership of delivering on the needs specified in the items in the sprint.
 
+## Sprint Planning
+
+...
+
 ## Sprint Summary
 
 At the end of each sprint, the team compiles a sprint summary. This summary should be in written form and distributed to the custoemr and product owner, often as part of the Sprint Demo meeting.
