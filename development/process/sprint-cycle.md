@@ -56,7 +56,13 @@ The agenda for a sprint review is as follows:
 - The team presents the sprint summary (and hand it over to the receivers)
 - The team demos the features, which is **done** (fulfill definition of done)
 - The product owner is asked to accept the result of the sprint, meaning that the team has done everything within it's means to deliver on the requirements specified in the committed PBIs
-- The product owner will present (the top of) the backlog to everybody in the Sprint Review together with the desired sprint involvement (budget) from the stakeholders, and based on this will the team decide which PBIs they can commit to in the upcoming sprint
+- The Client Sponsor will present (the top of) the backlog to everybody in the Sprint Review together with the desired sprint involvement (budget) from the stakeholders, and based on this will the team decide which PBIs they can commit to in the upcoming sprint
+
+For the sprint review to be considered valid should the following roles be present:
+
+* Mandatory: Product owner, Client sponsor and Team captain.
+
+* Highly recommended: Team coach and (all) members of the team
 
 ### Stand Up
 
