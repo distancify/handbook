@@ -2,7 +2,16 @@
 
 # Project Roles
 
-Each project has a couple of key roles that interact with the client and team in certain ways.
+Each project has a couple of key roles that interact with the client and team in certain ways. At Distancify, we don't believe in Job Titles. People act in various roles depending on the context and we are always improving and evaluating ourselves. Therefor, your employment contract doesn't necessarily specify a role, and your wage is not connected to it either.
+
+## Content
+
+- [Product Owner](#product-owner)
+- [Client Sponsor](#client-sponsor)
+- [Team Roles](#team-roles)
+  - [Coach](#coach)
+  - [Captain](#captain)
+  - [Member](#member)
 
 ## Product Owner
 
@@ -18,11 +27,13 @@ The Client Sponsor is a representative from the client, often in a senior or lea
 
 The Client Sponsor works very close to the [Product Owner](#product-owner) to gauge the business value of all the requirements that the team delivers on. This makes sure that the project focuses on the most important tasks first.
 
-## Team Coach
+## Team Roles
 
-We believe that any evolving team require a coach. In our Scrum teams, the Team Coach also serves as a Scrum Master in the traditional sense.
+### Coach
 
-The Team Coach:
+We believe that any evolving team require a coach. In our Scrum teams, the Coach also serves as a Scrum Master in the traditional sense.
+
+The Coach:
 
 - Coaches the members of the teams, helping new members find their role etc.
 - Helps identifying impediments and help solving them
@@ -31,18 +42,16 @@ The Team Coach:
 - Help the team focus on what's important and keep the long term productivity high
 - Is not focusing on coding, at least not in the team's sprint, but could be solving the teams impediments using code
 - Is not held accountable for the team's work, but is held accountable for **how the team work**
+- Makes sure that Team Members achieve growth and execute at the peak of their ability
 
-## Team Leader
+### Captain
 
-If each sprint was a battlefield, the Team Leader is the person that leads the team to victory.
+If each sprint was a battlefield, the Captain is the person that leads the team to victory. The Captain points out the direction and priorities in the sprint and is therefor the most critical component in [Sprint Planning](sprint-cycle.md#sprint-planning). The person acting as a Captain should be the natural leader of the team, and is often but not always the most senior person.
 
-The Team Leader:
+As a Captain, you must be able to take a step back from front line in order to lead your whole team. It's a balancing act. Not too far ahead, doing all the development yourself. Not too far back, only reviewing code and managing process and plans. The Captain needs to be in the middle, applying effort where it is most needed. Such as helping junior developers or focusing on the most critical or difficult problems.
 
-- Is a Team Member
-- Should be the natural leader of the team, and is often but not always the most senior person in the team 
-- Makes sure that the Team Members achieve growth and execute at the peak of their ability
-- Points out the direction and priorities in the sprint
+In the event that the Captain is not available, for example in the case of sick leave, the team must assign a new temporary Captain until the regular one is back.
 
-## Team Member
+### Member
 
 Team Members can serve various roles depending on their unique skillset within the team and the project at hand. Some members are programmers, others are architects and others are UX designers. Each team should strive to have a wide area of competence by having members of different disciplines. A Team Member should also focus on developing a "T-shaped" competence, where you have decent knowledge in all areas but specialized in at least one or more areas.

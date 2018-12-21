@@ -33,7 +33,7 @@ In order to effectively read and understand the content of this Handbook, it's g
 
 * [Project Roles](development/process/project-roles.md)
 * [Sprint Cycle](development/process/sprint-cycle.md)
-* Product Backlog
+* [Product Backlog](development/process/product-backlog.md)
 * [Managing Sprint work](development/process/managing-sprint-work.md)
 * Estimating Work
 * Reviewing Work
