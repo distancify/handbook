@@ -4,6 +4,15 @@
 
 Each project has a couple of key roles that interact with the client and team in certain ways. At Distancify, we don't believe in Job Titles. People act in various roles depending on the context and we are always improving and evaluating ourselves. Therefor, your employment contract doesn't necessarily specify a role, and your wage is not connected to it either.
 
+## Content
+
+- [Product Owner](#product-owner)
+- [Client Sponsor](#client-sponsor)
+- [Team Roles](#team-roles)
+  - [Coach](#coach)
+  - [Captain](#captain)
+  - [Member](#member)
+
 ## Product Owner
 
 At Distancify, the Product Owner in a project is almost always a Distancify employee, acting as a customer proxy. The reason for this is that the key value of working with Distancify is that we have vast experience from our industry, mainly digital commerce. Often more so that the client itself. On top of that, we can make sure our Product Owners are highly skilled problem solvers and technical thinkers that knows how to bring a system from A to Z.
@@ -40,6 +49,8 @@ The Coach:
 If each sprint was a battlefield, the Captain is the person that leads the team to victory. The Captain points out the direction and priorities in the sprint and is therefor the most critical component in [Sprint Planning](sprint-cycle.md#sprint-planning). The person acting as a Captain should be the natural leader of the team, and is often but not always the most senior person.
 
 As a Captain, you must be able to take a step back from front line in order to lead your whole team. It's a balancing act. Not too far ahead, doing all the development yourself. Not too far back, only reviewing code and managing process and plans. The Captain needs to be in the middle, applying effort where it is most needed. Such as helping junior developers or focusing on the most critical or difficult problems.
+
+In the event that the Captain is not available, for example in the case of sick leave, the team must assign a new temporary Captain until the regular one is back.
 
 ## Member
 
