@@ -30,7 +30,7 @@ It is the team that ultimately makes the commitment and delivers it to the Clien
 
 ## Sprint Summary
 
-At the end of each sprint, the team compiles a sprint summary. This summary should be in written form and distributed to the custoemr and product owner, often as part of the Sprint Demo meeting.
+At the end of each sprint, the team compiles a sprint summary. This summary should be in written form and distributed to the customer and product owner, often as part of the Sprint Demo meeting.
 
 The sprint summary should contain the following:
 
