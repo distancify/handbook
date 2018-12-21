@@ -15,7 +15,7 @@ See [Project Roles / Product Owner](../development/process/project-roles.md#prod
 - **Scrum Master**\
 Can be used interchangebly with *Team Coach* in Scrum teams. See [Project Roles / Team Coach](../development/process/project-roles.md#team-coach) for more details.
 - **Sprint**\
-In speech and in writing, we prefer to use the word sprint over *Iteration*. Although *Iteration* is synonymous with the word *Sprint* and can be used interchangebly, we usually say *Sprint*. Some of our internal systems use the word *Iteration*, in which case it means *Sprint.
+In speech and in writing, we prefer to use the word sprint over *Iteration*. Although *Iteration* is synonymous with the word *Sprint* and can be used interchangebly, we usually say *Sprint*. Some of our internal systems use the word *Iteration*, in which case it means *Sprint*.
 - **Team Coach**\
 Can be used interchangebly with *Scrum Master* in Scrum teams. See [Project Roles / Team Coach](../development/process/project-roles.md#team-coach) for more details.
 - **Velocity**\
