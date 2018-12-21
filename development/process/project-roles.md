@@ -29,7 +29,7 @@ The Client Sponsor works very close to the [Product Owner](#product-owner) to ga
 
 ## Team Roles
 
-## Coach
+### Coach
 
 We believe that any evolving team require a coach. In our Scrum teams, the Coach also serves as a Scrum Master in the traditional sense.
 
@@ -44,7 +44,7 @@ The Coach:
 - Is not held accountable for the team's work, but is held accountable for **how the team work**
 - Makes sure that Team Members achieve growth and execute at the peak of their ability
 
-## Captain
+### Captain
 
 If each sprint was a battlefield, the Captain is the person that leads the team to victory. The Captain points out the direction and priorities in the sprint and is therefor the most critical component in [Sprint Planning](sprint-cycle.md#sprint-planning). The person acting as a Captain should be the natural leader of the team, and is often but not always the most senior person.
 
@@ -52,6 +52,6 @@ As a Captain, you must be able to take a step back from front line in order to l
 
 In the event that the Captain is not available, for example in the case of sick leave, the team must assign a new temporary Captain until the regular one is back.
 
-## Member
+### Member
 
 Team Members can serve various roles depending on their unique skillset within the team and the project at hand. Some members are programmers, others are architects and others are UX designers. Each team should strive to have a wide area of competence by having members of different disciplines. A Team Member should also focus on developing a "T-shaped" competence, where you have decent knowledge in all areas but specialized in at least one or more areas.
