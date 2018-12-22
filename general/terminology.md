@@ -9,7 +9,7 @@ When working at Distancify, you are going to run into all kinds of domain specif
 - **Client Sponsor**\
 See [Project Roles / Client Sponsor](../development/process/project-roles.md#client-sponsor).
 - **Product Backlog Item (PBI)**\
-We use the term Product Backlog Item (or PBI, yes we actually refers to it as "PBI" in speech) to refer to an item in a backlog. PBI is a slightly more general term than the sometimes more specific industry-standard terms *User Story* or *Requirement*. A PBI can be a user story, or it could be a requirement. It depends more on how it's formulated.
+See [Product Backlog / Product Backlog Item (PBI)](../development/process/product-backlog.md#product-backlog-item-pbi).
 - **Product Owner**\
 See [Project Roles / Product Owner](../development/process/project-roles.md#product-owner).
 - **Scrum Master**\
