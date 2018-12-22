@@ -53,7 +53,7 @@ The above discussion could never have been had if there wasn't a *Who* and *Why*
 
 #### Acceptance Criteria
 
-On top of the Who, What and Why, there could be specific constraints. These are also added to the PBI. They could be technical, or specific needs that must be fulfilled. In Azure DevOps, we note these down in the **Acceptance Criteria** field.
+On top of the Who, What and Why, there could be specific constraints. These are also added to the PBI. They could be technical or otherwise specific needs that must be fulfilled. In Azure DevOps, we note these down in the **Acceptance Criteria** field.
 
 ### Sprints
 
