@@ -39,7 +39,7 @@ This user story allows room for discussion:
 > 
 > "Or we could add a search box to the brand index page," said Rikard.
 > 
-> "**Wait!**" Shouted Christopher as if he just woke up. "Why is the brand index page difficult to browse in the first place?"
+> "**Wait!**" shouted Christopher as if he just woke up. "Why is the brand index page difficult to browse in the first place?"
 > 
 > Rikard and Levi sat quiet, thinking to themselves "Where did he come from?"
 > 
