@@ -31,6 +31,7 @@ In order to effectively read and understand the content of this Handbook, it's g
 
 #### Process
 
+* [Introduction](development/process/introduction.md)
 * [Project Roles](development/process/project-roles.md)
 * [Sprint Cycle](development/process/sprint-cycle.md)
 * [Product Backlog](development/process/product-backlog.md)
