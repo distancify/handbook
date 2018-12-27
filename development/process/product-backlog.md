@@ -8,13 +8,17 @@ The purpose of the backlog is to help prioritising what is most important to do 
 
 ### Epic
 
-Epics explain strategic goals and is often modeled around how the business itself thinks about the various efforts that takes place within a project. It's the level at which the Client Sponsor and Client Management is operating, and serves as a good framework for reporting overall progress of a project. Examples of Epics could be delivering the checkout and order management flow, or launching in a new market.
+In Azure DevOps, we use *Epics* to model individual projects at a particular client. Often, a client has different budgets for different projects/epics.
+
+### Feature
+
+Features explain strategic goals and is often modeled around how the business itself thinks about the various efforts that takes place within a project. It's the level at which the Client Sponsor and Client Management is operating, and serves as a good framework for reporting overall progress of a project. Examples of Features could be delivering the checkout and order management flow, or launching in a new market.
 
 ### Product Backlog Item (PBI)
 
-We use the term Product Backlog Item (or PBI, yes we actually refers to it as "PBI" in speech) to refer to an item in a backlog. "PBI" can be seen as a carrier of *User Stories* or *Requirements* .
+We use the term Product Backlog Item (or PBI, yes we actually refers to it as "PBI" in speech) to refer to an item in a backlog. "PBI" can be seen as a carrier of *User Stories* or *Requirements*.
 
-Note that PBIs can contain multiple user stories that all align around a given feature. So in one sense, a PBI can be referred to as a Feature. Which is why we avoid using the "Feature" terminology used in Azure DevOps *Scrum* processes.
+Note that PBIs can contain multiple user stories that all align around a given feature. So in one sense, a PBI can be referred to as a Feature. However, the term *Feature* is used to group multiple PBIs into a coherent strategic goal useful for communicating with Client Management (see [Feature](#feature) above). Therefor we consistently use the term "PBI" when referring to a PBI. Although, sometimes during refinement meetings, a PBI is deemed to big, in which case it is made into a feature and split into multiple PBIs.
 
 #### User Stories
 
