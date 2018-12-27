@@ -20,7 +20,14 @@ In order to effectively read and understand the content of this Handbook, it's g
 
 ### Development
 
-* [Open Source](development/open-source.md)
+#### Methodology
+
+* [Introduction](development/methodology/introduction.md)
+* [Product Backlog](development/methodology/product-backlog.md)
+* [Project Roles](development/methodology/project-roles.md)
+* [Sprint Cycle](development/methodology/sprint-cycle.md)
+* [Managing Sprint work](development/methodology/managing-sprint-work.md)
+* Reviewing Work
 
 #### Guidelines
 
@@ -28,16 +35,7 @@ In order to effectively read and understand the content of this Handbook, it's g
 * [Logging Levels](development/guidelines/logging-levels.md)
 * [Branching](development/guidelines/branching.md)
 * [Commit Messages](development/guidelines/commit-messages.md)
-
-#### Process
-
-* [Introduction](development/process/introduction.md)
-* [Project Roles](development/process/project-roles.md)
-* [Sprint Cycle](development/process/sprint-cycle.md)
-* [Product Backlog](development/process/product-backlog.md)
-* [Managing Sprint work](development/process/managing-sprint-work.md)
-* Reviewing Work
-* [Bugs](development/process/bugs.md)
+* [Open Source](development/open-source.md)
 
 #### Incidents
 
