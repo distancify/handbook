@@ -35,7 +35,7 @@ In order to effectively read and understand the content of this Handbook, it's g
 * [Logging Levels](development/guidelines/logging-levels.md)
 * [Branching](development/guidelines/branching.md)
 * [Commit Messages](development/guidelines/commit-messages.md)
-* [Open Source](development/open-source.md)
+* [Open Source](development/guidelines/open-source.md)
 
 #### Incidents
 
