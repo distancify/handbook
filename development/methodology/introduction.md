@@ -1,4 +1,4 @@
-[Handbook](../../README.md) / Development / Process
+[Handbook](../../README.md) / Development / Methodology
 
 # Introduction
 
