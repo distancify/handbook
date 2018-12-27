@@ -8,7 +8,7 @@ The team may use Tasks within a sprint to keep track of what needs to be done. A
 
 **It is paramount that the team decides on a common unit for the Task effort.**
 
-Bugs can be seen as a type of Task. It uses a different Work Item Type than Task but is always connected to a parent PBI and is handled the same way as a Task on the Sprint board. For more details, refer to the [Product Backlog article](product-backlog.md#bugs). For the rest of this article, the term **Task refers to both Tasks and Bugs**.
+Bugs can be seen as a type of Task. It uses a different Work Item Type than Task but is always connected to a parent PBI and is handled the same way as a Task on the Sprint board. For more details, refer to the [Product Backlog/Bugs](product-backlog.md#bugs) section. For the rest of this article, the term **Task refers to both Tasks and Bugs**.
 
 ## Workflow / States
 
