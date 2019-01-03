@@ -1,4 +1,4 @@
-[Handbook](../../README.md) / Development / Methodology
+[Handbook](../../README.md) / Development / Methodology / Sprint Cycle
 
 # Managing Sprint Work
 
@@ -8,13 +8,13 @@ The team may use Tasks within a sprint to keep track of what needs to be done. A
 
 **It is paramount that the team decides on a common unit for the Task effort.**
 
-Bugs can be seen as a type of Task. It uses a different Work Item Type than Task but is always connected to a parent PBI and is handled the same way as a Task on the Sprint board. For more details, refer to the [Product Backlog/Bugs](product-backlog.md#bugs) section. For the rest of this article, the term **Task refers to both Tasks and Bugs**.
+Bugs can be seen as a type of Task. It uses a different Work Item Type than Task but is always connected to a parent PBI and is handled the same way as a Task on the Sprint board. For more details, refer to the [Product Backlog/Bugs](../product-backlog/product-backlog.md#bugs) section. For the rest of this article, the term **Task refers to both Tasks and Bugs**.
 
 ## Workflow / States
 
 ### Product Backlog Items
 
-Within a sprint, a PBI should always start out in the "Committed" state. The PBI will stay in this state until it's finished, given the projects Definition of Done. The team should set the state of the PBI to Done whenever they think that the PBI's requirements has been met. For more details around the PBI lifecycle, refer to the [Product Backlog](product-backlog.md) article.
+Within a sprint, a PBI should always start out in the "Committed" state. The PBI will stay in this state until it's finished, given the projects Definition of Done. The team should set the state of the PBI to Done whenever they think that the PBI's requirements has been met. For more details around the PBI lifecycle, refer to the [Product Backlog](../product-backlog/product-backlog.md) article.
 
 ### Tasks
 
@@ -32,13 +32,13 @@ Here follows a brief description of each state:
 
 #### Review
 
-- **Review** is for your peers to review your work, such as code review or visual review. A review could also be a validation of a performed configuration change that isn't part of the source code repository. For more details around intricacies of the reviewing process, refer to the [Reviewing Work](reviewing-work.md) article.
+- **Review** is for your peers to review your work, such as code review or visual review. A review could also be a validation of a performed configuration change that isn't part of the source code repository. For more details around intricacies of the reviewing process, refer to the [Reviewing Work](../development-cycle/reviewing-work.md) article.
 
 Sometimes a task can be reviewed on it's own, such as a bugfix. Sometimes a PBI is reviewed as a whole. In the latter case, all tasks should stay in review until properly reviewed. PBIs however, do not has a "In review" state. This is because it's not really interesting to know whether a PBI is in review or not. Review only concerns the team and the immediate stakeholders the team currently works with. As a Client Sponsor or Product Owner, the review phase is not interesting.
 
 #### Done
 
-**Done** is when the task is reviewed and merged into the master or feature branch. Tasks of a given PBI is usually merged as a whole once the PBI is done, while Bugs that occur after a PBI has been shipped is generally considered *Done* once the bugfix is live. For more details around how we work with branches, refer to the general [Branching](../guidelines/branching.md) guidelines or check with your current project.
+**Done** is when the task is reviewed and merged into the master or feature branch. Tasks of a given PBI is usually merged as a whole once the PBI is done, while Bugs that occur after a PBI has been shipped is generally considered *Done* once the bugfix is live. For more details around how we work with branches, refer to the general [Branching](../../guidelines/branching.md) guidelines or check with your current project.
 
 ## Testing
 

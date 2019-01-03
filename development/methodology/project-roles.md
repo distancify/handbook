@@ -21,6 +21,8 @@ The Product Owner owns the project backlog. This means nothing goes into the bac
 
 In order to be an effective Product Owner, you have to have authority from the client. This is often something that is built with trust over time. But to make things more practical, the Product Owner cooperates with a business representative from the client's organization. We call this person [Client Sponsor](#client-sponsor).
 
+The Product Owner's most important responsibility is to uncover the *Who* and *Why*, see [Backog Refinement](product-backlog/backlog-refinement.md#item-approval) for reference.
+
 ## Client Sponsor
 
 The Client Sponsor is a representative from the client, often in a senior or leadership position. This person is ultimately accountable for the business case of the project towards it's own organization. The Client Sponsor is the person that delegates authority to the Product Owner in order for the Product Owner to work effectively. The Client Sponsor has "veto" rights, meaning it has the full authority to at any point pause or cancel the project if it's not going in the right direction. This is a safety mechanism handed over from Distancify to the client which is rarely used.

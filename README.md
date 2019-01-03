@@ -24,11 +24,13 @@ In order to effectively read and understand the content of this Handbook, it's g
 #### Methodology
 
 * [Introduction](development/methodology/introduction.md)
-* [Product Backlog](development/methodology/product-backlog.md)
 * [Project Roles](development/methodology/project-roles.md)
-* [Sprint Cycle](development/methodology/sprint-cycle.md)
-* [Managing Sprint work](development/methodology/managing-sprint-work.md)
-* Reviewing Work
+* [Product Backlog](development/methodology/product-backlog/product-backlog.md)
+  * [Backlog Item Types](development/methodology/product-backlog/backlog-item-types.md)
+* [Sprint Cycle](development/methodology/sprint-cycle/sprint-cycle.md)
+  * [Managing Sprint work](development/methodology/sprint-cycle/managing-sprint-work.md)
+* Development Cycle
+  * Reviewing Work
 
 #### Guidelines
 
