@@ -15,15 +15,20 @@ In order to effectively read and understand the content of this Handbook, it's g
 * [External Communication](general/external-communication.md)
 * [Documentation](general/documentation.md)
 * [Equipment](general/equipment.md)
-* [Calendar, Vacation and Leave](general/calendar-vacation-and-leave.md)
+* [Vacation and Leave](general/calendar-vacation-and-leave.md)
 * [Travel Guidelines](general/travel-guidelines.md)
 * [Terminology](general/terminology.md)
 
+### Your First Day
+
+These sections contain a step-by-step guide on various tasks that you need to go through when you start working at Distancify.
+
+* [1. Calendar Sharing](first-day/1-calendar-sharing.md)
+
 ### Development
 
-#### Methodology
+#### [Methodology](development/methodology.md)
 
-* [Introduction](development/methodology/introduction.md)
 * [Project Roles](development/methodology/project-roles.md)
 * [Product Backlog](development/methodology/product-backlog/product-backlog.md)
   * [Backlog Item Types](development/methodology/product-backlog/backlog-item-types.md)
