@@ -21,9 +21,10 @@ In order to effectively read and understand the content of this Handbook, it's g
 
 ### Your First Day
 
-These sections contain a step-by-step guide on various tasks that you need to go through when you start working at Distancify.
+This section contain a step-by-step guide on various tasks that you need to go through when you start working at Distancify.
 
 * [1. Calendar Sharing](first-day/1-calendar-sharing.md)
+* [2. Absence.io](first-day/2-absence-io.md)
 
 ### Development
 
