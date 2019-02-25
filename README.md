@@ -47,6 +47,8 @@ This section contain a step-by-step guide on various tasks that you need to go t
 * [Commit Messages](development/guidelines/commit-messages.md)
 * [Open Source](development/guidelines/open-source.md)
 * [Codereview and pull requests](development/guidelines/codereview.md)
+* [Coding conventions](development/guidelines/coding-conventions.md)
+
 
 #### Incidents
 
