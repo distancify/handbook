@@ -8,6 +8,7 @@ Stuff we are looking for in out code review is:
 
 - Is the code covered with unit tests? "This requires a unit test"
 - Is the code clear and readable? Naming and semantics, both the reviewer and developer should be able to read the code
+- Do we follow our [coding conventions](coding-conventions.md)? Not all parts can be found by a linting tool
 
 The code review should not the the main source of knowledge sharing, for this is pair programming a much better exercise.
 
