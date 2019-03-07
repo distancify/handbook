@@ -8,42 +8,94 @@
 
 ## Feature
 
-Features explain strategic goals and is often modeled around how the business itself thinks about the various efforts that takes place within a project. It's the level at which the Client Sponsor and Client Management is operating, and serves as a good framework for reporting overall progress of a project. Examples of Features could be delivering the checkout and order management flow, or launching in a new market.
+Features explain strategic goals and is often modeled around how the business itself thinks about the various efforts that takes place within a project. It's the level at which the Client Sponsor and Client Management is operating, and serves as a good framework for reporting overall progress of a project. Examples of Features could be a product page template, or payment method at checkout.
 
 ## Product Backlog Item (PBI)
 
-We use the term Product Backlog Item (or PBI, yes we actually refers to it as "PBI" in speech) to refer to an item in a backlog. "PBI" can be seen as a carrier of *User Stories*.
-
-Note that PBIs can contain multiple user stories that all align around a given feature. So in one sense, a PBI can be referred to as a Feature. However, the term *Feature* is used to group multiple PBIs into a coherent strategic goal useful for communicating with Client Management (see [Feature](#feature) above). Therefor we consistently use the term "PBI" when referring to a PBI. Although, sometimes during refinement meetings, a PBI is deemed to big, in which case it is made into a feature and split into multiple PBIs.
-
-The PBIs title is usually a short summary of what the PBI expects to result in, the user stories *What*.
-
-### User Stories
-
-Although PBIs can be formal requirement documents, we prefer the use of User Stories, as it invites more collaboration from th team.
+Product Backlog Items (or PBIs, yes we actually refers to it as "PBI" in speech) starts out as User Stories. A User Story generally explains an acitivity that a user will be able to perform. Although sometimes it can be a limitation to a users ability to perform an action. For example "Customer must not be able to place an order without paying". The User Story should adhere to the [INVEST checklist](https://www.agilealliance.org/glossary/invest).
 
 A User Story must answer the following questions:
 
 - Who\
-Example: A customer who is looking for a particular brand
+Example: A customer
 - What\
 Example: Should be able to search for a brand using text input
 - Why\
 Example: The business carries 400 brands, and it's difficult to find a brand without typing it.
 
-Often, we put all of this into a sentence to form a sort of requirement:
+The user story leaves room for discussion. The team will later discuss the *What* and come up with a proposed solution to the story in the [Backlog Refinement meeting](backlog-refinement.md).
 
-> As a customer who is looking for a particular brand, I should be able to search for a brand using text input as the list of 400 brands is very difficult to browse through.
+### Acceptance Criterias
 
-The user story leaves room for discussion. The team will later discuss the *What* in the [Backlog Refinement meeting](backlog-refinement.md), but the initial suggested solution serves as a good starting point for the discussion.
-
-### Acceptance Criteria
+Additionally to the User Story, a PBI contains acceptance criterias. The criterias serves as contract between Distancify and the Client and specifies whether the Client has received the functionality they are paying for. Acceptance criteras are also used for evaluating whether something is a bug and covered by warranty.
 
 Acceptance criterias are noted down as scenarios using the [Cucumber/Gherkin syntax](https://docs.cucumber.io/gherkin/reference/). These scenarios serve both as acceptance criterias and can quite easily be transformed into acceptance tests.
+
+### Form
+
+The basic structure of a PBI is:
+
+**Title:**
+
+```
+<Who> wants/needs/must/etc <What>
+```
+
+**Why:**
+
+```
+<Why does Who needs What?>
+```
+
+**Acceptance Criteria:**
+
+```
+Scenario 1:
+
+- Given ...
+- When ...
+- Then ...
+```
 
 ### Constraints
 
 Sometimes, there are specific constraints that constrain the solution in various ways. These can be technical or business. To continue on the user story example above, there may have been a contraint saying that the order of the brands list must not be change, as it's sorted based on popularity.
+
+### Customer Summary
+
+Once a PBI is delivered, we note down what was actually done and how the problem was solved in the customer summary. This is a high-level explanation meant for stakeholders to understand what was actually made. Links to relevant user manual sections is also included.
+
+### States
+
+#### Proposed
+
+- **New**\
+The user story has been noted down by the product owner but is still incomplete. It still doesn't answer the questions Who, What, Why properly.
+- **Ready for refinement**\
+The user story is answering the questions Who, What and Why and is ready to be discussed with the team in an upcoming [Backlog Refinement meeting](backlog-refinement.md).
+- **Approved**\
+The PBI is approved by the team and is ready to be considered for an upcoming sprint.
+
+#### In Progress
+
+- **Committed**\
+The team has committed to deliver the PBI in the current sprint.
+- ***Re-opened due to bugs***\
+If the PBI was previously done but bugs have surfaced, the PBI is temporarily moved into this state while the bugs are being solved.
+
+#### Resolved
+
+- **Implemented**\
+The Product owner is reviewing the final solution to make sure it's aligned with the user story
+- **Accepted by PO**\
+The solution is deemed sufficient by Product owner and the PBI is now awaiting Client acceptance.
+- **Accepted by Client**\
+The client/primary stakeholder has accepted the solution and the PBI is ready for production.
+
+#### Completed
+
+- **Done**\
+The functionality is in production.
 
 ## Bugs
 
