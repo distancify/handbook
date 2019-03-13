@@ -86,16 +86,16 @@ If the PBI was previously done but bugs have surfaced, the PBI is temporarily mo
 #### Resolved
 
 - **Implemented**\
-The Product owner is reviewing the final solution to make sure it's aligned with the user story
+The PBI is implemented according to the Definition of Implemented. The PBI is now assigned to the Product owner who will review the final solution to make sure it's aligned with the user story.
 - **Accepted by PO**\
-The solution is deemed sufficient by Product owner and the PBI is now awaiting Client acceptance.
+The solution is deemed sufficient by Product owner and the PBI is now awaiting Client acceptance. The PBI is assigned back to it's primary developer to collect the acceptance from Client.
 - **Accepted by Client**\
-The client/primary stakeholder has accepted the solution and the PBI is ready for production.
+The client/primary stakeholder has accepted the solution and the PBI is ready for delivery.
 
 #### Completed
 
-- **Done**\
-The functionality is in production.
+- **Delivered**\
+The value is delivered to the client. This could mean that the feature is live, but value can also be delivered in other forms. Not all PBIs are feature changes. Some deliverables are documents, prototypes, or waiting in a staging environment for a future release.
 
 ## Bugs
 
