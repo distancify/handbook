@@ -94,7 +94,7 @@ The client/primary stakeholder has accepted the solution and the PBI is ready fo
 
 #### Completed
 
-- **Delivered**\
+- **Done**\
 The value is delivered to the client. This could mean that the feature is live, but value can also be delivered in other forms. Not all PBIs are feature changes. Some deliverables are documents, prototypes, or waiting in a staging environment for a future release.
 
 ## Bugs
