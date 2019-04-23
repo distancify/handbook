@@ -70,11 +70,13 @@ Once a PBI is delivered, we note down what was actually done and how the problem
 #### Proposed
 
 - **New**\
-The user story has been noted down by the product owner but is still incomplete. It still doesn't answer the questions Who, What, Why properly.
-- **Ready for refinement**\
-The user story is answering the questions Who, What and Why and is ready to be discussed with the team in an upcoming [Backlog Refinement meeting](backlog-refinement.md).
+The user story has been noted down by the product owner. The User Story must fulfill the criteria of a user story.
+- **Refining**\
+The user story is currently being refined by the team. The refinement makes sure that the PBI contains the needed acceptance criterias.
+- **Ready**\
+The refinement is deemed complete by the team. The assignee of the PBI will now seek to approve the acceptance criterias with the client. The question is, "Assuming the system is behaving as explained by the acceptance criteria, do we think the user story will be fulfilled?". Sometimes there is no clear answer to this question, as a complex problem does not have any guaranteed solutions, but it should be our best guess.
 - **Approved**\
-The PBI is approved by the team and is ready to be considered for an upcoming sprint.
+The PBI is approved by the client and is ready to be considered for an upcoming sprint. It's also ready to be estimated by the team.
 
 #### In Progress
 
