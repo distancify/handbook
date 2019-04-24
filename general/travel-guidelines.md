@@ -4,7 +4,7 @@
 
 ## Hotels
 
-Let Kaylee book your accomodation.
+TBD
 
 ## Taxi
 
@@ -16,4 +16,4 @@ When travelling in Sweden, use the SJ company account. Contact Kristoffer or Joh
 
 ## Flying
 
-Let Kaylee book your flights.
+TBD
