@@ -1,6 +1,10 @@
 [Handbook](../README.md) / Offices
 
 # Gothia Science Park, Skövde, Sweden
+Pergolan, plan 1<br />
+Kaplansgatan 18<br />
+541 34 Skövde<br />
+Sweden
 
 ## Car Parking
 
@@ -11,7 +15,3 @@ Contact Kristoffer to get your ticket. The license is registered on your car and
 ### Visitors
 
 If you're visiting, you can find a parking ticket for the day in the entrance of "Växthuset".
-
-## Conference Room
-
-In order to reserve the shared conference room in Open Office, go to [calendar.se/r/openoffice](https://calendar.se/r/openoffice).
