@@ -13,6 +13,7 @@ In order to effectively read and understand the content of this Handbook, it's g
 * [Our Values](general/our-values.md)
 * [Internal Communication](general/internal-communication.md)
 * [External Communication](general/external-communication.md)
+* [Meetings policy](general/meetings-policy.md)
 * [Documentation](general/documentation.md)
 * [Equipment](general/equipment.md)
 * [Vacation and Leave](general/calendar-vacation-and-leave.md)
