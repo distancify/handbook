@@ -1,8 +1,8 @@
-## Facilitation types
+# Facilitation types
 
 A meeting can be facilitated in different mannors
 
-### Face-to-face facilitation
+## Face-to-face facilitation
 
 **The benefits of face-to-face facilitation include:**
 - Relationship building
@@ -19,7 +19,7 @@ A meeting can be facilitated in different mannors
 - Manual post-workshop documentation
 - Limited number of attendees
 
-### Virtual facilitation (synchronous meetings)
+## Virtual facilitation (synchronous meetings)
 
 **The benefits of virtual facilitation include:**
 - Increased productivity – no time spent on travel
@@ -34,7 +34,7 @@ A meeting can be facilitated in different mannors
 - Limited number of attendees
 - Poses technical requirements: high speed internet and a virtual meeting too
 
-### Digital facilitaion (async online meetings)
+## Digital facilitaion (async online meetings)
 
 **The benefits of digital facilitation include:**
 - Increased flexibility
@@ -52,11 +52,11 @@ A meeting can be facilitated in different mannors
 - Unlike the other facilitation approaches, digital facilitation is suitable for longer engagements like learning programs and organizational change processes. 
 - High level of personal drive is needed
 
-## Types of meetings
+# Types of meetings
 
 There are different kinds of meetings and for each type. Each type requires different preparations.
 
-### Status meeting
+## Status meeting
 
 Goal: Bringing attendes up to speed
 
@@ -67,7 +67,7 @@ Alternatives
 - A written status update
 - A video recording
 
-### Information Sharing Meeting
+## Information Sharing Meeting
 
 Goal: Everybody should end with the same picture
 
@@ -82,7 +82,7 @@ Alternatives
 - A written version is often possible
 - A video recording
 
-### Decision Making Meeting
+## Decision Making Meeting
 
 Goal: Agreeing on the way forward
 
@@ -93,7 +93,7 @@ Content:
 - Ranking preferences
 - Voting
 
-### Problem Solving Meetings
+## Problem Solving Meetings
 
 Goal: To solve a known problem
 
@@ -103,7 +103,7 @@ Examples of content:
 - Brainstorming of possible solutions
 - An agreement
 
-### Innovation meetings
+## Innovation meetings
 
 Goal: Thinking outside the box, generate new input to the company
 
@@ -115,7 +115,7 @@ Content:
 Alternatives
 - Creative online tools
 
-### Team Building
+## Team Building
 
 Goal: Have participants feel like essential parts of their unit (company, team, department)
 
