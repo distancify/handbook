@@ -26,7 +26,21 @@ It is the team that ultimately makes the commitment and delivers it to the Clien
 
 ## Sprint Planning
 
-...
+We should continuously work on refining our test environment, regression tests, performance tests, monitoring, and logging. 
+Minimum requirements for all projects:
+- Test environment: Dedicated QA/acceptance environment, preferably automatically refreshed at the start of a new sprint.
+- Regression tests: Scenarios for register user, login, product search, add to cart, and checkout, preferably automated.
+- Performance tests: Execute a benchmark load test before each deploy.
+- Monitoring: Scheduled page loads to make sure it is up and responding.
+- Logging: Log all calls to third party services, such as payment providers, and preferably all database insert/update
+
+If something is missing or can be improved we should add PBIs for this to the backlog.
+
+Before each sprint we should also go through incidents and support tickets.
+
+Have there been any larger incidents? Did we get timely alerts or do we need increased monitorization? Can we add regression tests to make sure that those incidents doesn’t reoccur? If so, PBIs needs to be created for this.
+
+Have there been support tickets where it has been difficult to find the root cause? Can we add logging in order to facilitate? If so, add PBIs to improve logging. 
 
 ## Sprint Summary
 
