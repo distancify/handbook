@@ -1,9 +1,18 @@
 [Handbook](../README.md) / Offices
 
 # Gothia Science Park, Skövde, Sweden
+Visitors:
+
 Pergolan, plan 1<br />
 Kaplansgatan 18<br />
 541 34 Skövde<br />
+Sweden
+
+Postal:
+
+Distancify AB<br />
+Box 133<br />
+541 23 Skövde<br />
 Sweden
 
 ## Car Parking
