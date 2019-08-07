@@ -49,6 +49,7 @@ This section contain a step-by-step guide on various tasks that you need to go t
 * [Open Source](development/guidelines/open-source.md)
 * [Codereview and pull requests](development/guidelines/codereview.md)
 * [Coding conventions](development/guidelines/coding-conventions.md)
+* [Acceptance Criteria Format](development/guidelines/acceptance-criteria-format.md)
 
 
 #### Incidents

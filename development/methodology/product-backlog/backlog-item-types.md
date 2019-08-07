@@ -1,4 +1,4 @@
-[Handbook](../../README.md) / Development / Methodology / Product Backlog
+[Handbook](../../../README.md) / Development / Methodology / Product Backlog
 
 # Backlog Item Types
 
@@ -30,6 +30,8 @@ The user story leaves room for discussion. The team will later discuss the *What
 Additionally to the User Story, a PBI contains acceptance criterias. The criterias serves as contract between Distancify and the Client and specifies whether the Client has received the functionality they are paying for. Acceptance criteras are also used for evaluating whether something is a bug and covered by warranty.
 
 Acceptance criterias are noted down as scenarios using the [Cucumber/Gherkin syntax](https://docs.cucumber.io/gherkin/reference/). These scenarios serve both as acceptance criterias and can quite easily be transformed into acceptance tests.
+
+Refer to the [Acceptance Criteria Format](../../guidelines/acceptance-criteria-format.md) section for more details about how acceptance criterias are written.
 
 ### Form
 
