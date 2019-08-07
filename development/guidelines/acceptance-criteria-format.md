@@ -10,26 +10,40 @@ As scenarios are read by humans, readability is the number one priority. When de
 
 Below is the simplest example of a scenario. Notice the bolded scenario name and list. This is style elements supported by Azure DevOps and limits the visual load of a scenario.
 
----
-
-Scenario **Cancel allowed**:
-* When I open the order
-* Then I should be able to Cancel the order
-
----
+<table>
+<tr>
+    <th>Example</th>
+</tr>
+<tr>
+    <td>
+        Scenario <b>Cancel allowed</b>:
+        <ul>
+            <li>When I open the order</li>
+            <li>Then I should be able to Cancel the order</li>
+        </ul>
+    </td>
+</tr>
+</table>
 
 ## Pre-requisites
 
 When the action and outcome is dependent on a given circumstance:
 
----
-
-Scenario **Cancel allowed**:
-* Given the order is in status Confirmed
-* When I open the order in Zendesk
-* Then I should be able to Cancel the order
-
-----
+<table>
+<tr>
+    <th>Example</th>
+</tr>
+<tr>
+    <td>
+        Scenario **Cancel allowed**:
+        <ul>
+            <li>Given the order is in status Confirmed</li>
+            <li>When I open the order in Zendesk</li>
+            <li>Then I should be able to Cancel the order</li>
+        </ul>
+    </td>
+</tr>
+</table>
 
 When a given action and outcome is shared between multiple circumstances, in which case multiple givens can be combined as follows:
 
@@ -57,32 +71,58 @@ When a given action and outcome is shared between multiple circumstances, in whi
 
 When a given action and outcome is dependent on multiple circumstances. Instead of making the Given statement too long and difficult to interpret, each pre-requisite can be added as separate rows as follows:
 
----
-
-Scenario **Cancel allowed**:
-* Given **ALL**:
-  * The order is in status Confirmed
-  * The order has not been previously cancelled
-* When I open the order in Zendesk
-* Then I should be able to Cancel the order
-
----
+<table>
+<tr>
+    <th>Example</th>
+</tr>
+<tr>
+    <td>
+        Scenario <b>Cancel allowed</b>:<br>
+        <ul>
+            <li>
+                Given <b>ALL</b>:
+                <ul>
+                    <li>The order is in status Confirmed</li>
+                    <li>The order has not been previously cancelled
+                    <li>When I open the order in Zendesk</li>
+                </ul>
+            </li>
+            <li>When I open the order in Zendesk</li>
+            <li>Then I should be able to Cancel the order</li>
+        </ul>
+    </td>
+</tr>
+</table>
 
 The two previous examples can also be combined:
 
----
-
-Scenario **Cancel allowed**:
-* Given **ALL**:
-  * Given **ANY**:
-    * The order is in status Init
-    * The order is in status Confirmed
-    * The order is in state Attention and all connected Deliveries are in state "Init"
-  * The order has not been previously cancelled
-* When I open the order in Zendesk
-* Then I should be able to Cancel the order
-
----
+<table>
+<tr>
+    <th>Example</th>
+</tr>
+<tr>
+    <td>
+        Scenario <b>Cancel allowed</b>:<br>
+        <ul>
+            <li>
+                Given <b>ALL</b>:
+                <ul>
+                    <li>Given <b>ANY</b>:
+                        <ul>
+                            <li>The order is in status Init</li>
+                            <li>The order is in status Confirmed</li>
+                            <li>The order is in state Attention and all connected Deliveries are in state "Init"</li>
+                        </ul>
+                    </li>
+                    <li>The order has not been previously cancelled</li>
+                </ul>
+            </li>
+            <li>When I open the order in Zendesk</li>
+            <li>Then I should be able to Cancel the order</li>
+        </ul>
+    </td>
+</tr>
+</table>
 
 Although these formats can sometimes help making multiple scenarios easier to overview, it can also have the reverse effect. Sometimes it's easier to break the Scenario into multiple smaller ones. Use your judgement when deciding how to write your scenarios.
 
