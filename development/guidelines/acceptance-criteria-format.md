@@ -167,7 +167,7 @@ When an action is divided into multiple substeps, it can help for readability to
             <li>Given the order is in status Confirmed</li>
             <li>
                 When:
-                <ol>
+                <ol style="list-style-type: decimal;">
                     <li>I open Zendesk</li>
                     <li>I click on the order overview</li>
                     <li>I click on an order in the order overview</li>
@@ -193,7 +193,7 @@ It may be tempting to add an example to a scenario. Imagine a scenario as follow
         Scenario <b>Addition</b>:
         <ul>
             <li>When
-                <ol>
+                <ol style="list-style-type: decimal;">
                     <li>Enter a number</li>
                     <li>Clicks the "plus" button</li>
                     <li>Enter another number</li>
@@ -221,7 +221,7 @@ Being concrete in your scenario description is a good thing. The person reading 
         Scenario <b>Addition</b>:
         <ul>
             <li>When
-                <ol>
+                <ol style="list-style-type: decimal;">
                     <li>Enter number 2</li>
                     <li>Clicks the "plus" button</li>
                     <li>Enter number 3</li>
