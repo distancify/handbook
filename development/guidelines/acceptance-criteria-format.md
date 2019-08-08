@@ -2,7 +2,7 @@
 
 # Acceptance Criteria Format
 
-Acceptance criterias are noted down as scenarios using the [Cucumber/Gherkin syntax](https://docs.cucumber.io/gherkin/reference/). In order to make scenarios easy to overview and read, we have extended the syntax slightly and we apply a consistent styling of how they are written.
+Acceptance criterias are noted down as scenarios. The syntax for scenarios is originates from the [Cucumber/Gherkin syntax](https://docs.cucumber.io/gherkin/reference/). In order to make scenarios easier to overview and read, we have changed and extended the syntax slightly and we apply a consistent styling of how they are written.
 
 As scenarios are read by humans, readability is the number one priority. When deciding how to formulate your scenarios, always think of the person that is going to read them.
 
@@ -270,6 +270,8 @@ Scenarios should only describe new behavior tied to the user story. It might be 
 </table>
 
 This is generally not needed and only serves to confuse whoever is trying to understand the criterias.
+
+It might however be a reasonable test scenario. But the test scenarios needed to validate a feature generally always extend upon the acceptance criterias.
 
 ## Legacy scenarios
 
