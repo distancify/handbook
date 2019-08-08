@@ -35,7 +35,7 @@ When the action and outcome is dependent on a given circumstance:
 </tr>
 <tr>
     <td>
-        Scenario **Cancel allowed**:
+        Scenario <b>Cancel allowed</b>:
         <ul>
             <li>Given the order is in status Confirmed</li>
             <li>When I open the order in Zendesk</li>
@@ -179,7 +179,6 @@ When an action is divided into multiple substeps, it can help for readability to
 </tr>
 </table>
 
-
 ## Examples
 
 It may be tempting to add an example to a scenario. Imagine a scenario as follows:
@@ -241,3 +240,77 @@ Writing the scenario like this have the following benefits:
 - The scenario can be 1:1 copied into an actual test.
 
 If you think of your scenarios as test as you would write a unit test before implementing the code, you realize that you don't need to know the implementation when writing the test. It's actually better to come up with the implementation after you have the test.
+
+## Reverse scenarios
+
+Scenarios should only describe new behavior tied to the user story. It might be tempting to add reverse scenarios, such as:
+
+<table>
+<tr>
+    <th colspan="2">Examples</th>
+</tr>
+<tr>
+    <td>
+        Scenario <b>Cancel allowed</b>:
+        <ul>
+            <li>Given the order is in status Confirmed</li>
+            <li>When I open the order in Zendesk</li>
+            <li>Then I should be able to Cancel the order</li>
+        </ul>
+    </td>
+    <td>
+        Scenario <b>Cancel not allowed</b>:
+        <ul>
+            <li>Given the order is <b>not</b> in status Confirmed</li>
+            <li>When I open the order in Zendesk</li>
+            <li>Then I should <b>not</b> be able to Cancel the order</li>
+        </ul>
+    </td>
+</tr>
+</table>
+
+This is generally not needed and only serves to confuse whoever is trying to understand the criterias.
+
+## Legacy scenarios
+
+When changing the behavior of an existing system, one may want to specify a scenario that describes how the system already works. But old scenarios are generally unaffected by new development unless they specifically conflict with new scenarios.
+
+For example, a scenario in a previous PBI may have been:
+
+<table>
+<tr>
+    <th>Example</th>
+</tr>
+<tr>
+    <td>
+        Scenario <b>Login disallowed</b>:
+        <ul>
+            <li>When I login with non-existing credentials</li>
+            <li>Then I should see a message saying the credentials are incorrect</li>
+        </ul>
+    </td>
+</tr>
+</table>
+
+Let's imagine we then have a new PBI which says that when I log in with incorrect credentials, I want to have the option to reset my password in case I have forgotten it.
+
+In this new PBI, it could be tempting to add a scenario that also says that there should be a message saying the credentials was incorrect. **Do not do this**. The old scenario still applies as long as none of the new scenarios directly contradicts it. Adding scenarios explaining existing functionality only serves to confuse the person reading the scenarios. Should the implementation impact old scenarios in an unexpected way, there should be tests covering the old scenarios saying so, or at least it will be regarded as a bug and will be fixed.
+
+Instead, likely the only scenario needed for the new PBI would be:
+
+<table>
+<tr>
+    <th>Example</th>
+</tr>
+<tr>
+    <td>
+        Scenario <b>Suggest password reset</b>:
+        <ul>
+            <li>When I login with non-existing credentials</li>
+            <li>Then I should see a link to the reset password form</li>
+        </ul>
+    </td>
+</tr>
+</table>
+
+And this new scenario **does not mean that the old message should be removed**.
