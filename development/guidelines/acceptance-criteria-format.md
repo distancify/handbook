@@ -130,7 +130,7 @@ Although these formats can sometimes help making multiple scenarios easier to ov
 
 The name of the scenario should be short and to the point. Any auxiliary verbs should be stripped if not necessary. Also try to make the names of the scenarios easily distinguishable. For example, do not have scenarios named "Cancel allowed Init", "Cancel allowed Confirmed", "Cancel allowed Attention". Instead, just name them "Init", "Confirmed", "Attention". Names don't have to make much sense but they must be easily recognizable.
 
-## Explanations
+## Comments
 
 Sometimes it can be hard to understand the underlying reason for a scenario. In those cases you may add an explanation or background for the scenario.
 
@@ -141,7 +141,7 @@ Sometimes it can be hard to understand the underlying reason for a scenario. In 
 <tr>
     <td>
         Scenario <b>Cancel allowed</b>:<br>
-        Reason: Orders may only be cancelled in specific states due to business rules.
+        Comment: Orders may only be cancelled in specific states due to business rules.
         <ul>
             <li>Given the order is in status Confirmed</li>
             <li>When I open the order in Zendesk</li>
