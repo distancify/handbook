@@ -168,8 +168,8 @@ Take the example below:
         <i>Comment: If we only send discounted/final price to ERP, we get full freedom on how we want discounts applied in the e-commerce without having to worry about how ERP models the discount. For example order discounts can sometimes be tricky to handle in ERP.</i>
         <ul>
             <li>Given that the order has a discount</li>
-            <li>When the order is exported to NAV</li>
-            <li>Then only the discounted sums should be sent to NAV (not the original price)</li>
+            <li>When the order is exported to ERP</li>
+            <li>Then only the discounted sums should be sent to ERP (not the original price)</li>
         </ul>
     </td>
 </tr>
