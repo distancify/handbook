@@ -134,22 +134,50 @@ The name of the scenario should be short and to the point. Any auxiliary verbs s
 
 Sometimes it can be hard to understand the underlying reason for a scenario. In those cases you may add an explanation or background for the scenario.
 
+A comment often explains the behavior in the context of the system. Perhaps the given scenario has some external dependency or pre-requisite that isn't directly covered by the PBI itself.
+
 <table>
 <tr>
-    <th>Example</th>
+    <th>Example of good comment</th>
 </tr>
 <tr>
     <td>
-        Scenario <b>Cancel allowed</b>:<br>
-        Comment: Orders may only be cancelled in specific states due to business rules.
+        Scenario <b>Processing</b>:<br>
+        <i>Comment: As orders will always be moved back to "Confirmed" after any change has been made, and then immediately transfer to processing, we can bind to the processing state-change in order to achieve this.</i>
         <ul>
-            <li>Given the order is in status Confirmed</li>
-            <li>When I open the order in Zendesk</li>
-            <li>Then I should be able to Cancel the order</li>
+            <li>When an order is moved to processing</li>
+            <li>Then the order should be sent to NAV</li>
         </ul>
     </td>
 </tr>
 </table>
+
+### Hidden User Stories
+
+Beware that needing a comment can often mean you need an additional user story instead.
+
+Take the example below:
+
+<table>
+<tr>
+    <th>Example of bad comment</th>
+</tr>
+<tr>
+    <td>
+        Scenario <b>Only discounted price</b>:<br>
+        <i>Comment: If we only send discounted/final price to ERP, we get full freedom on how we want discounts applied in the e-commerce without having to worry about how ERP models the discount. For example order discounts can sometimes be tricky to handle in ERP.</i>
+        <ul>
+            <li>Given that the order has a discount</li>
+            <li>When the order is exported to NAV</li>
+            <li>Then only the discounted sums should be sent to NAV (not the original price)</li>
+        </ul>
+    </td>
+</tr>
+</table>
+
+This scenario actually explains a hidden need, and can be made more explicit with a user story:
+
+> ERP wants to have order discounts split upon all the affected rows as the ERP can't properly handle order discounts in the return flow
 
 ## Multiple steps
 
