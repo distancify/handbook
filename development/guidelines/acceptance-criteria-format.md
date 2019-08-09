@@ -143,10 +143,10 @@ A comment often explains the behavior in the context of the system. Perhaps the 
 <tr>
     <td>
         Scenario <b>Processing</b>:<br>
-        <i>Comment: As orders will always be moved back to "Confirmed" after any change has been made, and then immediately transfer to processing, we can bind to the processing state-change in order to achieve this.</i>
+        <i>Comment: As orders will always be moved back to "Confirmed" after any change has been made, and then immediately transfer to processing, we can use the processing state-change in order to achieve this.</i>
         <ul>
             <li>When an order is moved to processing</li>
-            <li>Then the order should be sent to NAV</li>
+            <li>Then the order should be sent to ERP</li>
         </ul>
     </td>
 </tr>
