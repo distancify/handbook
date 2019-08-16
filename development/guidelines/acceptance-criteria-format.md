@@ -16,7 +16,7 @@ Below is the simplest example of a scenario. Notice the bolded scenario name and
 </tr>
 <tr>
     <td>
-        Scenario <b>Cancel allowed</b>:
+        Scenario <b>Cancel allowed</b>
         <ul>
             <li>When I open the order</li>
             <li>Then I should be able to Cancel the order</li>
@@ -35,7 +35,7 @@ When the action and outcome is dependent on a given circumstance:
 </tr>
 <tr>
     <td>
-        Scenario <b>Cancel allowed</b>:
+        Scenario <b>Cancel allowed</b>
         <ul>
             <li>Given the order is in status Confirmed</li>
             <li>When I open the order in Zendesk</li>
@@ -53,7 +53,7 @@ When a given action and outcome is shared between multiple circumstances, in whi
 </tr>
 <tr>
     <td>
-        Scenario <b>Cancel allowed</b>:<br>
+        Scenario <b>Cancel allowed</b>
         <ul>
             <li>Given <b>ANY</b>:
                 <ul>
@@ -77,7 +77,7 @@ When a given action and outcome is dependent on multiple circumstances. Instead 
 </tr>
 <tr>
     <td>
-        Scenario <b>Cancel allowed</b>:<br>
+        Scenario <b>Cancel allowed</b>
         <ul>
             <li>
                 Given <b>ALL</b>:
@@ -102,7 +102,7 @@ The two previous examples can also be combined:
 </tr>
 <tr>
     <td>
-        Scenario <b>Cancel allowed</b>:<br>
+        Scenario <b>Cancel allowed</b>
         <ul>
             <li>
                 Given <b>ALL</b>:
@@ -142,7 +142,7 @@ A comment often explains the behavior in the context of the system. Perhaps the 
 </tr>
 <tr>
     <td>
-        Scenario <b>Processing</b>:<br>
+        Scenario <b>Processing</b><br>
         <i>Comment: As orders will always be moved back to "Confirmed" after any change has been made, and then immediately transfer to processing, we can use the processing state-change in order to achieve this.</i>
         <ul>
             <li>When an order is moved to processing</li>
@@ -164,7 +164,7 @@ Take the example below:
 </tr>
 <tr>
     <td>
-        Scenario <b>Only discounted price</b>:<br>
+        Scenario <b>Only discounted price</b><br>
         <i>Comment: If we only send discounted/final price to ERP, we get full freedom on how we want discounts applied in the e-commerce without having to worry about how ERP models the discount. For example order discounts can sometimes be tricky to handle in ERP.</i>
         <ul>
             <li>Given that the order has a discount</li>
@@ -189,8 +189,7 @@ When an action is divided into multiple substeps, it can help for readability to
 </tr>
 <tr>
     <td>
-        Scenario <b>Cancel allowed</b>:<br>
-        Reason: Orders may only be cancelled in specific states due to business rules.
+        Scenario <b>Cancel allowed</b>
         <ul>
             <li>Given the order is in status Confirmed</li>
             <li>
@@ -217,7 +216,7 @@ It may be tempting to add an example to a scenario. Imagine a scenario as follow
 </tr>
 <tr>
     <td>
-        Scenario <b>Addition</b>:
+        Scenario <b>Addition</b>
         <ul>
             <li>When
                 <ol style="list-style-type: decimal;">
@@ -245,7 +244,7 @@ Being concrete in your scenario description is a good thing. The person reading 
 </tr>
 <tr>
     <td>
-        Scenario <b>Addition</b>:
+        Scenario <b>Addition</b>
         <ul>
             <li>When
                 <ol style="list-style-type: decimal;">
@@ -279,7 +278,7 @@ Scenarios should only describe new behavior tied to the user story. It might be 
 </tr>
 <tr>
     <td>
-        Scenario <b>Cancel allowed</b>:
+        Scenario <b>Cancel allowed</b>
         <ul>
             <li>Given the order is in status Confirmed</li>
             <li>When I open the order in Zendesk</li>
@@ -287,7 +286,7 @@ Scenarios should only describe new behavior tied to the user story. It might be 
         </ul>
     </td>
     <td>
-        Scenario <b>Cancel not allowed</b>:
+        Scenario <b>Cancel not allowed</b>
         <ul>
             <li>Given the order is <b>not</b> in status Confirmed</li>
             <li>When I open the order in Zendesk</li>
@@ -313,7 +312,7 @@ For example, a scenario in a previous PBI may have been:
 </tr>
 <tr>
     <td>
-        Scenario <b>Login disallowed</b>:
+        Scenario <b>Login disallowed</b>
         <ul>
             <li>When I login with non-existing credentials</li>
             <li>Then I should see a message saying the credentials are incorrect</li>
@@ -334,7 +333,7 @@ Instead, likely the only scenario needed for the new PBI would be:
 </tr>
 <tr>
     <td>
-        Scenario <b>Suggest password reset</b>:
+        Scenario <b>Suggest password reset</b>
         <ul>
             <li>When I login with non-existing credentials</li>
             <li>Then I should see a link to the reset password form</li>
