@@ -1,6 +1,6 @@
 [Handbook](../README.md) / Offices
 
-# Gothia Science Park, Skövde, Sweden
+# Science Park Skövde, Skövde, Sweden
 Visitors:
 
 Pergolan, plan 1<br />

@@ -60,6 +60,6 @@ This section contain a step-by-step guide on various tasks that you need to go t
 
 ### Offices
 
-* [Gothia Science Park, Skövde, Sweden](offices/gsp.md)
+* [Science Park Skövde, Skövde, Sweden](offices/skovde.md)
 * [Alingsås, Sweden](offices/alingsas.md)
 * [Baia Mare, Romania](offices/baiamare.md)
