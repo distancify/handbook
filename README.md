@@ -49,6 +49,7 @@ This section contain a step-by-step guide on various tasks that you need to go t
 * [Open Source](development/guidelines/open-source.md)
 * [Codereview and pull requests](development/guidelines/codereview.md)
 * [Coding conventions](development/guidelines/coding-conventions.md)
+* [Acceptance Criteria Format](development/guidelines/acceptance-criteria-format.md)
 
 
 #### Incidents
@@ -59,6 +60,6 @@ This section contain a step-by-step guide on various tasks that you need to go t
 
 ### Offices
 
-* [Gothia Science Park, Skövde, Sweden](offices/gsp.md)
+* [Science Park Skövde, Skövde, Sweden](offices/skovde.md)
 * [Alingsås, Sweden](offices/alingsas.md)
 * [Baia Mare, Romania](offices/baiamare.md)
