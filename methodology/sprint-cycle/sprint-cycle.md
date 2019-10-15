@@ -1,4 +1,4 @@
-[Handbook](../../README.md) / Development / Methodology / Sprint Cycle
+[Handbook](../../README.md) / Methodology / Sprint Cycle
 
 # Sprint Cycle
 

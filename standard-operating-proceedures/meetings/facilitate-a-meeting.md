@@ -1,8 +1,25 @@
-# Facilitation types
+[Handbook](../../README.md) / Standard Operating Proceedures / Meetings
 
-A meeting can be facilitated in different mannors
+# Facilitate a meeting
 
-## Face-to-face facilitation
+The meetings mentioned within this article are referring to synchronous meetings, where everybody is engaged in real-time. While an e-mail thread or a discussion on Yammer can technically be regarded as a virtual meeting, they require a much less formal approach.
+
+## Planning the meeting
+
+- Consider the [type of meeting](#types-of-meetings)
+- Consider if the meeting might have an alternative (is the meeting really needed or could it be replaced by an alternative)
+- Prepare agenda (need by invited attendees to know if they need to attend)
+- Prepare content
+- In case of [physical meeting](#face-to-face-facilitation) Decide on the venue / location
+- In case of [virtual or online](#virtual-facilitation) facilitation, decide which tools to be used (and inform in the agenda)
+- Consider the physical frame like address, location and surroundings
+- Do shorter Meetings, do meetings less Often
+
+A ground rule is that 80% of meetings should be no more than 15 minutes long, meetings har a tendency to take the allocated time (rarely less)
+
+## Facilitation types
+
+### Face-to-face facilitation
 
 **The benefits of face-to-face facilitation include:**
 - Relationship building
@@ -19,7 +36,7 @@ A meeting can be facilitated in different mannors
 - Manual post-workshop documentation
 - Limited number of attendees
 
-## Virtual facilitation (synchronous meetings)
+## Virtual facilitation
 
 **The benefits of virtual facilitation include:**
 - Increased productivity – no time spent on travel
@@ -34,7 +51,7 @@ A meeting can be facilitated in different mannors
 - Limited number of attendees
 - Poses technical requirements: high speed internet and a virtual meeting too
 
-## Digital facilitaion (async online meetings)
+### Digital facilitaion (async online meetings)
 
 **The benefits of digital facilitation include:**
 - Increased flexibility
@@ -52,11 +69,11 @@ A meeting can be facilitated in different mannors
 - Unlike the other facilitation approaches, digital facilitation is suitable for longer engagements like learning programs and organizational change processes. 
 - High level of personal drive is needed
 
-# Types of meetings
+## Types of meetings
 
-There are different kinds of meetings and for each type. Each type requires different preparations.
+There are different kinds of meetings and for each type. Each type requires different preparations. Before scheduling a meeting, consider the given alternatives instead.
 
-## Status meeting
+### Status meeting
 
 Goal: Bringing attendes up to speed
 
@@ -67,12 +84,14 @@ Alternatives
 - A written status update
 - A video recording
 
-## Information Sharing Meeting
+### Information Sharing Meeting
 
 Goal: Everybody should end with the same picture
 
 Examples of content
 
+- Sprint Briefing
+- Daily Briefing
 - Preparation for an action
 - Knowledge sharing
 - Presentation of new customers
@@ -82,7 +101,7 @@ Alternatives
 - A written version is often possible
 - A video recording
 
-## Decision Making Meeting
+### Decision Making Meeting
 
 Goal: Agreeing on the way forward
 
@@ -93,7 +112,7 @@ Content:
 - Ranking preferences
 - Voting
 
-## Problem Solving Meetings
+### Problem Solving Meetings
 
 Goal: To solve a known problem
 
@@ -103,7 +122,7 @@ Examples of content:
 - Brainstorming of possible solutions
 - An agreement
 
-## Innovation meetings
+### Innovation meetings
 
 Goal: Thinking outside the box, generate new input to the company
 
@@ -113,9 +132,9 @@ Content:
 - Sharing ideas 
 
 Alternatives
-- Creative online tools
+- *There are no good alternatives to creative discussions*
 
-## Team Building
+### Team Building
 
 Goal: Have participants feel like essential parts of their unit (company, team, department)
 
@@ -124,4 +143,4 @@ Examples of content:
 - Planned coffee breaks
 - Gatherings at an external location
 - Kick-off meetings
-- Coperate events (company celebrations, annual parties)
+- Corporate events (company celebrations, annual parties)

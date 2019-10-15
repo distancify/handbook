@@ -1,14 +1,10 @@
-[Handbook](../../README.md) / Development / Guidelines
+[Handbook](../../README.md) / Policies
 
 # Open Source
 
 ## Source Control
 
 We use GitHub for all open source efforts. At GitHub, there's an organization called "distancify". Ask any of the current members to gain access.
-
-## Continuous Integration
-
-For our public open source efforts, we use AppVeyor for building our code. Ask Kristoffer to get an invite to the account.
 
 ## Licensing
 

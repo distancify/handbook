@@ -1,6 +1,6 @@
-[Handbook](../README.md) / General
+[Handbook](../README.md) / Policies
 
-# Travel Guidelines
+# Travel
 
 ## Hotels
 

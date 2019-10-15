@@ -1,4 +1,4 @@
-[Handbook](../../README.md) / Development / Guidelines
+[Handbook](../../README.md) / Policies
 
 # Readability over Efficiency
 

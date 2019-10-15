@@ -1,4 +1,4 @@
-[Handbook](../../../README.md) / Development / Methodology / Product Backlog
+[Handbook](../../../README.md) / Methodology / Product Backlog
 
 # Backlog Item Types
 

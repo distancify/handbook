@@ -1,4 +1,4 @@
-[Handbook](../../README.md) / Development / Methodology
+[Handbook](../../README.md) / Methodology
 
 # Project Roles
 

@@ -1,4 +1,4 @@
-[Handbook](../../README.md) / Development / Methodology / Development Cycle
+[Handbook](../../README.md) / Methodology / Development Cycle
 
 # Reviewing Work
 

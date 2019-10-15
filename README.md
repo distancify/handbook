@@ -11,13 +11,7 @@ In order to effectively read and understand the content of this Handbook, it's g
 ### General
 
 * [Our Values](general/our-values.md)
-* [Internal Communication](general/internal-communication.md)
-* [External Communication](general/external-communication.md)
-* [Meetings policy](general/meetings-policy.md)
 * [Documentation](general/documentation.md)
-* [Equipment](general/equipment.md)
-* [Vacation and Leave](general/calendar-vacation-and-leave.md)
-* [Travel Guidelines](general/travel-guidelines.md)
 * [Terminology](general/terminology.md)
 
 ### Your First Day
@@ -27,36 +21,55 @@ This section contain a step-by-step guide on various tasks that you need to go t
 * [1. Calendar Sharing](first-day/1-calendar-sharing.md)
 * [2. Absence.io](first-day/2-absence-io.md)
 
-### Development
+### [Methodology](methodology.md)
 
-#### [Methodology](development/methodology.md)
-
-* [Project Roles](development/methodology/project-roles.md)
-* [Product Backlog](development/methodology/product-backlog/product-backlog.md)
-  * [Backlog Item Types](development/methodology/product-backlog/backlog-item-types.md)
-  * [Backlog Refinement](development/methodology/product-backlog/backlog-refinement.md)
-* [Sprint Cycle](development/methodology/sprint-cycle/sprint-cycle.md)
-  * [Managing Sprint work](development/methodology/sprint-cycle/managing-sprint-work.md)
+* [Project Roles](methodology/project-roles.md)
+* [Product Backlog](methodology/product-backlog/product-backlog.md)
+  * [Backlog Item Types](methodology/product-backlog/backlog-item-types.md)
+  * [Backlog Refinement](methodology/product-backlog/backlog-refinement.md)
+* [Sprint Cycle](methodology/sprint-cycle/sprint-cycle.md)
+  * [Managing Sprint work](methodology/sprint-cycle/managing-sprint-work.md)
 * Development Cycle
   * Reviewing Work
 
-#### Guidelines
+### Standard Operating Proceedures
 
-* [Readability over Efficiency](development/guidelines/readability-over-efficiency.md)
-* [Logging Levels](development/guidelines/logging-levels.md)
-* [Branching](development/guidelines/branching.md)
-* [Commit Messages](development/guidelines/commit-messages.md)
-* [Open Source](development/guidelines/open-source.md)
-* [Codereview and pull requests](development/guidelines/codereview.md)
-* [Coding conventions](development/guidelines/coding-conventions.md)
-* [Acceptance Criteria Format](development/guidelines/acceptance-criteria-format.md)
+#### Development
 
+* Plan tests for a PBI
+* Implementing a PBI
+* Implementing a Unit
+* Reviewing a Test
+* Reviewing a Pull Request
+* Deploy
 
-#### Incidents
+#### Support
 
-* On-call Duty
-* Standard Operating Proceedure
-* Incident Reports
+* Responding to a support request
+* Responding to an incident
+
+#### Meetings
+
+* [Facilitate a meeting](standard-operating-proceedures/meetings/facilitate-a-meeting.md)
+* [Respond to a meeting invitation](standard-operating-proceedures/meetings/respond-to-a-meeting-invitation.md)
+* [Attend a meeting](standard-operating-proceedures/meetings/attend-a-meeting.md)
+
+### Policies
+
+* [Acceptance Criteria Format](policies/acceptance-criteria-format.md)
+* [Branching](policies/branching.md)
+* [Codereview and pull requests](policies/codereview.md)
+* [Coding conventions](policies/coding-conventions.md)
+* [Commit Messages](policies/commit-messages.md)
+* [Communication - External](policies/external-communication.md)
+* [Communication - Internal](policies/internal-communication.md)
+* [Equipment](policies/equipment.md)
+* [Logging Levels](policies/logging-levels.md)
+* On-call duty
+* [Open Source](policies/open-source.md)
+* [Readability over Efficiency](policies/readability-over-efficiency.md)
+* [Travel](policies/travel.md)
+* [Vacation and Leave](policies/calendar-vacation-and-leave.md)
 
 ### Offices
 

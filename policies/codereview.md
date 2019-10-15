@@ -1,6 +1,8 @@
+[Handbook](../../README.md) / Policies
+
 # Code review and pull request
 
-At Distancify are code review (as part of pull request) an integrated part of the daily life of a developer. 
+At Distancify code reviews (as part of pull request) are an integrated part of the daily life of a developer. 
 
 The main purpose of our code reviews is to do findings which can't be caught by automated tools.
 
