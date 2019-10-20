@@ -69,6 +69,7 @@ This section contain a step-by-step guide on various tasks that you need to go t
 * On-call duty
 * [Open Source](policies/open-source.md)
 * [Readability over Efficiency](policies/readability-over-efficiency.md)
+* [Testing](policies/testing.md)
 * [Travel](policies/travel.md)
 * [Vacation and Leave](policies/calendar-vacation-and-leave.md)
 
