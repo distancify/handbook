@@ -1,4 +1,4 @@
-[Handbook](../../README.md) / Policies
+[Handbook](../README.md) / Policies
 
 # Acceptance Criteria Format
 
