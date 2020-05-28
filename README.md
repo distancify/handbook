@@ -34,7 +34,7 @@ This section contain a step-by-step guide on various tasks that you need to go t
 
 ### Standard Operating Proceedures
 
-* [The Distancify Model](the-distancify-model.md)
+* [The Distancify Model](standard-operating-proceedures/the-distancify-model.md)
 
 #### Development
 
