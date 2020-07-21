@@ -1,4 +1,4 @@
-[Handbook](../../README.md) / Standard Operating Proceedures / 
+[Handbook](../../README.md) / Standard Operating Proceedures
 
 # The Distancify Model
 
