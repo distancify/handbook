@@ -63,7 +63,7 @@ Sometimes, although it should be rare, new discoveries are made during the refin
 
 _3 weeks_
 
-The implementation phase happens during the much talked about "iteration". This is a 3 week period where the development team works focused on implementing the acceptance criterias. The development may consist of designing and implementing a front-end feature as well as specifying and implementing a back-end process or integration.
+The implementation phase happens during the much talked about "iteration" (also often referred to as "sprint"). This is a 3 week period where the development team works focused on implementing the acceptance criterias. The development may consist of designing and implementing a front-end feature as well as specifying and implementing a back-end process or integration.
 
 As an iteration starts, the team is introduced to the acceptance criterias by the Project Developer. Continuous communication between the team and Product Developers are encouraged, but should not be required.
 
@@ -71,15 +71,17 @@ The team assigns each user story in the iteration to a single team member. This 
 
 Tasks are useful in order for the team to find capacity bottlenecks. They are also useful when having multiple team members cooperate on the same story. Sometimes a story might need graphical design and implementation done by two separate members.
 
-Acceptance tests work items are also created and added to the board. These serves to track the completion of the actual requirements aggreed to with the customer.
+Acceptance tests work items are also created and added to the board. These serves to track the completion of the actual requirements agreed to with the customer.
 
 Once a story is complete, the responsible team member records a short demo explaining how the system works and how it now delivers the value described by the user story.
 
-By the end of the sprint, all acceptance criterias should be passing. This should be proved by either an automatic test or a documented manual test. Once the sprint ends, the new specifications are merged into the project's spec repo's master branch.
+By the end of the sprint, all acceptance criterias should be passing. This should be proved by either an automatic test or a documented manual test. Detailed information on how to submit test results can be found in the [Submit Test Results](submit-test-results.md) article.
+
+Once the sprint ends, the new specifications are merged into the project's spec repo's master branch.
 
 ### Deployment
 
-Demos should be handed to the POT and the customer's stakeholders. If the customer has one, the new features should be deployed to a staging environment. The delivered user stories are invoiced as part of closing the sprint. Should there be any bugs after the sprint is closed, Distancify will fix them free of charge.
+Demos should be handed to the POT and the customer's stakeholders. If the customer has one, the new features should be deployed to a staging environment, where exploratory testing is done under the responsibility of the POT. The delivered user stories are invoiced as part of closing the sprint. Should there be any bugs after the sprint is closed, Distancify will fix them free of charge.
 
 The customer then decides when the features should be deployed to production.
 
@@ -89,4 +91,4 @@ The customer then decides when the features should be deployed to production.
 
    If a repeating pattern of required communication appears, it's likely that the Defining phase is not defining the user stories well enough. A rule of thumb is that user facing features should come with a wireframe describing the overall layout of information. A back-end integration should come with a specification of data points that are to be transferred in the integration. If the integration is to be connected to an existing interface, then a reference to the existing interface should be part of the story definition, and the behavior of the interface should be encoded into the refinement.
 
-![Single story timeline](single-story-timeline.png)
+![The Distancify Model](distancify-model.png)

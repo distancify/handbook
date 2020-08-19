@@ -35,16 +35,13 @@ This section contain a step-by-step guide on various tasks that you need to go t
 ### Standard Operating Proceedures
 
 * [The Distancify Model](standard-operating-proceedures/the-distancify-model.md)
-* [Submitting test results for review](standard-operating-proceedures/submit-test-results.md)
 
 #### Development
 
-* Plan tests for a PBI
-* Implementing a PBI
-* Implementing a Unit
-* Reviewing a Test
-* Reviewing a Pull Request
-* Deploy
+* Implement a feature
+* [Submitting test results for review](standard-operating-proceedures/submit-test-results.md)
+* Submit code for code review
+* Reviewing a Pull Request/code review
 
 #### Support
 
