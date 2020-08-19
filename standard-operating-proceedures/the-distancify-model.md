@@ -24,7 +24,7 @@ _1-6 months before delivery_
 
 Everything starts by defining the problem. A problem should be described as a user story. User stories generally start off large and vague. The goal of the user story is to capture the user's need while providing enough information to the development team in order to make an estimation.
 
-The work of defining stories is owned by the Product Owner Team (POT), which should consist of a Product Developer from Distancify, and at least one representative from the customer. The work is practically led by the Product Developer from Distancify, who is an expert in the process of defining stories and the Distancify Model. As Distancify works in the e-commerce niche, a Distancify Product Developer is expected to be well educated in the e-commerce domain. This further accellerates the defining of stories.
+The work of defining stories is owned by the Product Owner Team (POT), which should consist of a Product Owner from Distancify, and at least one representative from the customer. The work is practically led by the Product Owner from Distancify, who is an expert in the process of defining stories and the Distancify Model. As Distancify works in the e-commerce niche, a Distancify Product Owner is expected to be well educated in the e-commerce domain. This further accellerates the defining of stories.
 
 In determining what is needed for a user story, a good rule of thumb is to think of it as an actual story. The user stories should tell an actual story. And the story should explain the problem and the intent of the user. Sometimes that can be done in a few sentences. Sometimes it needs epics, story maps, wire frames or even mood boards. More often than not, they need an actual person to also tell that story. So recording a short video telling the story could be a useful tool as well.
 
@@ -45,19 +45,21 @@ If the customer can't make a commitment to buy the story right now, it can be st
 
 _1-4 weeks before Implementation Phase_
 
-Stories are delivered in iterations. But before the iteration and implementation can begin, the stories must be further refined. In the refinement process acceptance tests are developed. Acceptance tests are feature based. Often user stories in an iteration targets the same feature, which is why some acceptance criterias overlap several user stories.
+Stories are delivered in iterations. But before the iteration and implementation can begin, the stories must be further refined. In the Refinement Phase acceptance tests are developed. Acceptance tests are feature based. Often user stories in an iteration targets the same feature, which is why some acceptance criterias overlap several user stories.
 
-Acceptance criterias serves as a form of contract between Distancify and the customer, and they must be agreed upon by both parties before the implementation can start.
+The Refinement Phase is managed by the Product Developer (PD) with input from POT and stakeholders. The PD is expected to have deep technical knowledge of the system(s) combined with good domain knowledge. A good PD must fully understand the business requirements and the overall business strategy, so that the system can be designed to work in a way that gives long-term strategic benefits.
 
-Acceptance criterias are written in Gherkin syntax and stored in a separate code repository, which means the approval of acceptance criteras can be formalized as pull requests. Each pull request is referred to as a "refinement". This code repository is known as the "spec repo" and follows the naming convention [Project name].spec. Each refinement generally maps all user stories for a given feature in a specific iteration. Each refinement's branch should follow the naming convention [planned iteration]/[feature or story]. The pull request should reference all user stories that the refinement is based on.
+Acceptance tests serves as a form of contract between Distancify and the customer, and they must be agreed upon by both parties before the implementation can start.
+
+Acceptance tests are written in Gherkin syntax and is stored in a separate code repository, which means the approval of acceptance criteras can be formalized as pull requests. Each pull request is referred to as a "refinement". This code repository is known as the "spec repo" and follows the naming convention [Project name].spec. Each refinement generally maps all user stories for a given feature in a specific iteration. Each refinement's branch should follow the naming convention [planned iteration]/[feature or story]. The pull request should reference all user stories that the refinement is based on.
 
 Important: Once a refinement is accepted by all parties, it is not "completed", meaning the changes does not get merged into the central branch. This completion is done as part of the finalizing of the sprint, when the system is actually behaving according to this new set of specifications.
 
 If a refinement is not done before an iteration starts, it's generally pushed into the next iteration, which is why it's important that the delivery plan is made well in advance to let the refinement be done in time.
 
-The refinement process is managed by the POT team with input from stakeholders.
-
 Sometimes, although it should be rare, new discoveries are made during the refinement process which alters the user stories. In this case, the feature or stories may go back to the previous phase for further defining.
+
+It is possible that once Implementation phase begins, new acceptance tests are discovered, or problems with the existing ones appear. In this case, the PD and POT discusses how to change the requirements in order to deliver the user story on time.
 
 ### Implementation Phase
 
