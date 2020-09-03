@@ -1,5 +1,7 @@
 [Handbook](../../README.md) / Methodology / Sprint Cycle
 
+> **Out of date** - The information in this article might be out of date.
+
 # Sprint Cycle
 
 ## Sprint

@@ -1,5 +1,7 @@
 [Handbook](../../README.md) / Methodology
 
+> **Out of date** - The information in this article might be out of date.
+
 # Project Roles
 
 Each project has a couple of key roles that interact with the client and team in certain ways. At Distancify, we don't believe in Job Titles. People act in various roles depending on the context and we are always improving and evaluating ourselves. Therefor, your employment contract doesn't necessarily specify a role, and your wage is not connected to it either.

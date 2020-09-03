@@ -21,27 +21,21 @@ This section contain a step-by-step guide on various tasks that you need to go t
 * [1. Calendar Sharing](first-day/1-calendar-sharing.md)
 * [2. Absence.io](first-day/2-absence-io.md)
 
-### [Methodology](methodology.md)
-
-* [Project Roles](methodology/project-roles.md)
-* [Product Backlog](methodology/product-backlog/product-backlog.md)
-  * [Backlog Item Types](methodology/product-backlog/backlog-item-types.md)
-  * [Backlog Refinement](methodology/product-backlog/backlog-refinement.md)
-* [Sprint Cycle](methodology/sprint-cycle/sprint-cycle.md)
-  * [Managing Sprint work](methodology/sprint-cycle/managing-sprint-work.md)
-* Development Cycle
-  * Reviewing Work
-
 ### Standard Operating Proceedures
 
-* [The Distancify Model](standard-operating-proceedures/the-distancify-model.md)
+* [The Distancify Model](sop/the-distancify-model.md)
 
-#### Development
+#### Coder
 
 * Implement a feature
-* [Submitting test results for review](standard-operating-proceedures/submit-test-results.md)
-* Submit code for code review
-* Reviewing a Pull Request/code review
+  1. [Plan a PBI](sop/coder/plan-a-pbi.md)
+  2. Create development branch
+  3. [Writing code](sop/coder/writing-code.md)
+  4. Commit code
+  5. [Submit test results](sop/coder/submit-test-results.md)
+  6. Create Pull Request
+  7. Complete Pull Request
+* [Reviewing a Pull Request](sop/coder/reviewing-a-pull-request.md)
 
 #### Support
 
@@ -50,16 +44,15 @@ This section contain a step-by-step guide on various tasks that you need to go t
 
 #### Meetings
 
-* [Facilitate a meeting](standard-operating-proceedures/meetings/facilitate-a-meeting.md)
-* [Respond to a meeting invitation](standard-operating-proceedures/meetings/respond-to-a-meeting-invitation.md)
-* [Attend a meeting](standard-operating-proceedures/meetings/attend-a-meeting.md)
+* [Facilitate a meeting](sop/meetings/facilitate-a-meeting.md)
+* [Respond to a meeting invitation](sop/meetings/respond-to-a-meeting-invitation.md)
+* [Attend a meeting](sop/meetings/attend-a-meeting.md)
 
 ### Policies
 
 * [Acceptance Criteria Format](policies/acceptance-criteria-format.md)
 * [Branching](policies/branching.md)
 * [Code Owners](policies/code-owners.md)
-* [Codereview and pull requests](policies/codereview.md)
 * [Coding conventions](policies/coding-conventions.md)
 * [Commit Messages](policies/commit-messages.md)
 * [Communication - External](policies/external-communication.md)

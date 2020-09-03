@@ -1,5 +1,7 @@
 [Handbook](../../../README.md) / Methodology / Product Backlog
 
+> **Out of date** - The information in this article might be out of date.
+
 # Backlog Item Types
 
 ## Epic
