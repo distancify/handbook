@@ -25,17 +25,22 @@ This section contain a step-by-step guide on various tasks that you need to go t
 
 * [The Distancify Model](sop/the-distancify-model.md)
 
-#### Coder
+#### Implementer
 
 * Implement a feature
-  1. [Plan a PBI](sop/coder/plan-a-pbi.md)
-  2. Create development branch
-  3. [Writing code](sop/coder/writing-code.md)
+  1. [Plan a PBI](sop/implementer/plan-a-pbi.md)
+  2. [Create development branch](sop/implementer/create-development-branch.md)
+  3. [Writing code](sop/implementer/writing-code.md)
   4. Commit code
-  5. [Submit test results](sop/coder/submit-test-results.md)
+  5. [Submit test results](sop/implementer/submit-test-results.md)
   6. Create Pull Request
   7. Complete Pull Request
-* [Reviewing a Pull Request](sop/coder/reviewing-a-pull-request.md)
+* [Reviewing a Pull Request](sop/implementer/reviewing-a-pull-request.md)
+
+#### Product Developer
+
+* Refine PBIs
+* Review test results
 
 #### Support
 
