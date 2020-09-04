@@ -4,7 +4,7 @@
 
 There are two main types of implementations that require different approaches and considerations. In both cases though, you let your acceptance test (see [Plan a PBI](plan-a-pbi.md)) drive your direction. The benefit of using acceptance tests for planning your work is that you avoid unconcious scope-creep and focus on what's important.
 
-## Discovering new Acceptance Tests
+### Discovering new Acceptance Tests
 
 Implementing a feature means focusing intensly on a specific part of the system. This can sometimes lead to new discoveries being made that was not immediately obvious during the [Refinement Phase](../the-distancify-model.md#refinement-phase). In this case, you should talk to the Product Developer to discuss the new discovery. Most of the time, a new acceptance test will be added to cover the scenario during the sprint.
 
