@@ -27,3 +27,7 @@ The Code Owner provides conceptual integrity of the projects architecture, and i
 5. In **Branch name pattern**, type in `master`
 6. Check **Require pull request reviews before merging**
 7. Check **Require review from Code Owners**
+
+## Code Style Guidelines
+
+The Code Owner is responsible for setting and imposing the code style guidelines for the project. One should strive to align with other similar projects. The style guidelines must be stated in the README file, and optionally but preferably imposed using linting tools.

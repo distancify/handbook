@@ -35,11 +35,12 @@ This section contain a step-by-step guide on various tasks that you need to go t
   5. [Submit test results](sop/implementer/submit-test-results.md)
   6. Create Pull Request
   7. Complete Pull Request
+  8. Record demo
 * [Reviewing a Pull Request](sop/implementer/reviewing-a-pull-request.md)
 
 #### Product Developer
 
-* Refine PBIs
+* Refining a PBI
 * Review test results
 
 #### Support
