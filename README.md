@@ -43,6 +43,11 @@ This section contain a step-by-step guide on various tasks that you need to go t
 * Refining a PBI
 * Review test results
 
+#### Release Manager
+
+* Creating and Deploy Release Candidate
+* Deploying to Production
+
 #### Support
 
 * Responding to a support request
