@@ -93,4 +93,4 @@ The customer then decides when the features should be deployed to production.
 
    If a repeating pattern of required communication appears, it's likely that the Defining phase is not defining the user stories well enough. A rule of thumb is that user facing features should come with a wireframe describing the overall layout of information. A back-end integration should come with a specification of data points that are to be transferred in the integration. If the integration is to be connected to an existing interface, then a reference to the existing interface should be part of the story definition, and the behavior of the interface should be encoded into the refinement.
 
-![The Distancify Model](distancify-model.png)
+![The Distancify Model](https://lucid.app/publicSegments/view/a524f961-56a9-493e-aae6-4c1fd841b89d/image.png)
