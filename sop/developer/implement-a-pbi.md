@@ -16,7 +16,7 @@ Once in LivingDoc, simply search for `@item:1234` (where `1234` is the PBI numbe
 
 The **Test** work item should contain a link to the scenario that it covers. The link can be copied from **SpecFlow+ LivingDoc** by clicking the ![paper clip](clip.png) icon.
 
-## 1.2 Estimate scenarios
+### 1.2 Estimate scenarios
 
 Secondly, add an hourly estimate to each scenario, roughly estimating the time it will take to finish each scenario.
 
