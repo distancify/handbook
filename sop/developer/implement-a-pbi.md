@@ -6,7 +6,7 @@
 
 Once the specification has been approved, it's time to start planning the implementation work. We have an acceptance-test-driven approach, and track progress through whether an acceptance test is passing or not.
 
-### 1.1 Add scenarios to board
+### Add scenarios to board
 
 Start by adding a **Test** work item for each related **Scenario** of PBI.
 
@@ -16,7 +16,7 @@ Once in LivingDoc, simply search for `@item:1234` (where `1234` is the PBI numbe
 
 The **Test** work item should contain a link to the scenario that it covers. The link can be copied from **SpecFlow+ LivingDoc** by clicking the ![paper clip](clip.png) icon.
 
-### 1.2 Estimate scenarios
+### Estimate scenarios
 
 Secondly, add an hourly estimate to each scenario, roughly estimating the time it will take to finish each scenario.
 
