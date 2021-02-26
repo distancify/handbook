@@ -25,28 +25,35 @@ This section contain a step-by-step guide on various tasks that you need to go t
 
 * [The Distancify Model](sop/the-distancify-model.md)
 
-#### Implementer
+#### Product Owner
 
-* Implement a feature
-  1. [Plan a PBI](sop/implementer/plan-a-pbi.md)
-  2. [Create development branch](sop/implementer/create-development-branch.md)
-  3. [Writing code](sop/implementer/writing-code.md)
-  4. Commit code
-  5. [Submit test results](sop/implementer/submit-test-results.md)
-  6. Create Pull Request
-  7. Complete Pull Request
-  8. Record demo
-* [Reviewing a Pull Request](sop/implementer/reviewing-a-pull-request.md)
-
-#### Product Developer
-
-* Refining a PBI
+* Define user story
+* Plan implementation/sprint
+* Review behavioral and visual spec
 * Review test results
+* Review demo
+
+#### UX designer
+
+* Create wireframe for user story
+* Create hi-def mockup
+* Review visual implementation
+
+#### Developer
+
+* Estimate work
+* Write feature spec
+* [Implement a pbi](sop/developer/implement-a-pbi.md)
+* [Test and Submit Results](sop/developer/test-and-submit-results.md)
+* Create Pull Request
+* Record demo
+* [Reviewing a Pull Request](sop/developer/reviewing-a-pull-request.md)
+* Complete work (Merge & update release document)
 
 #### Release Manager
 
-* Creating and Deploy Release Candidate
-* Deploying to Production
+* Push Release Candidate (RC) to staging
+* Deploy to production (Saas software)
 
 #### Support
 

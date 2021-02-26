@@ -1,8 +1,8 @@
-[Handbook](../../README.md) / Standard Operating Proceedures / Implementer
+[Handbook](../../README.md) / Standard Operating Proceedures / Developer
 
-# Submitting Test Results for Review
+# Test and Submit Results
 
-When a feature has been implemented, acceptance tests are to be run by the developer. The results of the tests should be submitted for review to the Product Developer. The purpose of this review is to make sure that the tester (developer) has interpreted the intention of the acceptance criteria correctly.
+When a feature has been implemented, the results of the tests should be submitted for review to the Product Owner. The purpose of this review is to make sure that the Developer has interpreted the intention of the acceptance criteria similary to the Product Owner.
 
 ## Submission Requirements
 
