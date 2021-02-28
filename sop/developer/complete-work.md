@@ -18,6 +18,8 @@ It's now time to wrap up and hand the work over to the Release Manager and stake
 
     Make sure that new releases are put in the correct **Area** (/Releases/&lt;customer or project name&gt;) and assign it whoever is managing this release (could be yourself, refer to [Assigning Release Manager to a Release](../release-manager/assigning-release-manager-to-a-release.md) for more details).
 
+    Assigning the correct Area is **very important** as the Area decides the permissions of the Release work item. Customers and stakeholders are supposed to be able to access releases, and for this to work the item must be in an Area of which they have read permission.
+
 2. Add your feature/fix to the **RC Next** section in **Description** field, creating it if it's not there. Each RC generally has a **Features** and **Fixes** section, as this simplifies for the reader.
     
     Each item should start by pointing to it's related work item (using a #1234 style link, as DevOps automatically makes these into proper work item links). By referencing the link in text, a hard link between the items is created, so it's possible to see from the work item which release it's part of (and whether it's deployed to production).
