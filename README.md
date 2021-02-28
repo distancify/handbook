@@ -48,10 +48,11 @@ This section contain a step-by-step guide on various tasks that you need to go t
 * Create Pull Request
 * Record demo
 * [Reviewing a Pull Request](sop/developer/reviewing-a-pull-request.md)
-* Complete work (Merge & update release document)
+* [Complete work (Merge & update release document)](sop/developer/complete-work.md)
 
 #### Release Manager
 
+* [Assigning Release Manager to a Release](sop/release-manager/assigning-release-manager-to-a-release.md)
 * Push Release Candidate (RC) to staging
 * Deploy to production (Saas software)
 
