@@ -10,7 +10,7 @@ Once you have:
 
 It's now time to wrap up and hand the work over to the Release Manager and stakeholders.
 
-1. Merge the related Pull Request into the relevant sprint branch (if Saas based project) or master (if shipped product).
+1. Merge the related Pull Request(s) into the target sprint branch (if Saas based project) or master branch (if shipped product).
 
 2. Navigate to the **Releases** in Azure DevOps and find the appropriate **Release work item**.
 
