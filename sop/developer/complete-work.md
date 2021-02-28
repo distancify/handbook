@@ -10,7 +10,9 @@ Once you have:
 
 It's now time to wrap up and hand the work over to the Release Manager and stakeholders.
 
-1. Navigate to the **Releases** in Azure DevOps and find the appropriate **Release work item**.
+1. Merge the related Pull Request into the relevant sprint branch (if Saas based project) or master (if shipped product).
+
+2. Navigate to the **Releases** in Azure DevOps and find the appropriate **Release work item**.
 
     **IF** there is no release, create a new one. It should be named after the current sprint, for example "J47".
 
@@ -20,13 +22,13 @@ It's now time to wrap up and hand the work over to the Release Manager and stake
 
     Assigning the correct Area is **very important** as the Area decides the permissions of the Release work item. Customers and stakeholders are supposed to be able to access releases, and for this to work the item must be in an Area of which they have read permission.
 
-2. Add your feature/fix to the **RC Next** section in **Description** field, creating it if it's not there. Each RC generally has a **Features** and **Fixes** section, as this simplifies for the reader.
+3. Add your feature/fix to the **RC Next** section in **Description** field, creating it if it's not there. Each RC generally has a **Features** and **Fixes** section, as this simplifies for the reader.
     
     Each item should start by pointing to it's related work item (using a #1234 style link, as DevOps automatically makes these into proper work item links). By referencing the link in text, a hard link between the items is created, so it's possible to see from the work item which release it's part of (and whether it's deployed to production).
 
     [See below](#release-description-example) for an example of a **Description** field on a Release.
 
-3. The related PBIs should be in state **Implemented** since that's done when all acceptance tests are green. Now it's time to set the PBI(s) to **Done**.
+4. The related PBIs should be in state **Implemented** since that's done when all acceptance tests are green. Now it's time to set the PBI(s) to **Done**.
 
 
 ## Release Description Example
