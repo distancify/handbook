@@ -22,6 +22,13 @@ It's now time to wrap up and hand the work over to the Release Manager and stake
     
     Each item should start by pointing to it's related work item (using a #1234 style link, as DevOps automatically makes these into proper work item links). By referencing the link in text, a hard link between the items is created, so it's possible to see from the work item which release it's part of (and whether it's deployed to production).
 
+    [See below](#release-description-example) for an example of a **Description** field on a Release.
+
+3. The related PBIs should be in state **Implemented** since that's done when all acceptance tests are green. Now it's time to set the PBI(s) to **Done**.
+
+
+## Release Description Example
+
 Below is an example of a **Description** field:
 
 ```
