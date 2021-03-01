@@ -4,7 +4,7 @@
 
 Once you have:
 
-- [gotten all acceptance tests/scenarios reviewed and approved](test-and-submit-results.md)
+- [gotten all acceptance tests results reviewed and approved](test-and-submit-results.md)
 - gotten the code Pull Request(s) reviewed and approved
 - recorded a demo
 
