@@ -71,7 +71,6 @@ This section contain a step-by-step guide on various tasks that you need to go t
 ### Policies
 
 * [Acceptance Criteria Format](policies/acceptance-criteria-format.md)
-* [Branching](policies/branching.md)
 * [Code Owners](policies/code-owners.md)
 * [Coding conventions](policies/coding-conventions.md)
 * [Commit Messages](policies/commit-messages.md)
