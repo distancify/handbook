@@ -1,11 +1,12 @@
-[Handbook](../README.md) / General
+[Handbook](../README.md)
 
-# Terminology
+# Definitions
 
 When working at Distancify, you are going to run into all kinds of domain specific terminology and abbreviations. You will also find a lot of these terms used throughout the Handbook, so here's an attempt to gather some of the more common ones we use internally.
 
 *Note to editors: Try to keep the list in alphabetical order :-)*
 
+- [Bug](./bug.md)
 - **Client Sponsor**\
 See [Project Roles / Client Sponsor](../development/process/project-roles.md#client-sponsor).
 - **Product Backlog Item (PBI)**\

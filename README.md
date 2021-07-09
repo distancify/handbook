@@ -12,7 +12,7 @@ In order to effectively read and understand the content of this Handbook, it's g
 
 * [Our Values](general/our-values.md)
 * [Documentation](general/documentation.md)
-* [Terminology](general/terminology.md)
+* [Definitions](definitions/definitions.md)
 
 ### Your First Day
 
@@ -60,6 +60,7 @@ This section contain a step-by-step guide on various tasks that you need to go t
 
 * Responding to a support request
 * Responding to an incident
+* [Submitting a Bug Report](sop/support/submitting-a-bug-report.md)
 
 #### Meetings
 
