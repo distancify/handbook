@@ -31,9 +31,10 @@ Perform the following steps:
 
 1. Go to a product listings page
 2. Resize the screen/viewport so that it's smaller than 768px
-3. Notice that the facets in the sidebar disappears as the viewport shrink
 
-According to the visual spec (https://link/to/visual/spec/) that displays the filters on phone devices, the filter view should be visible on devices smaller than 768px.
+According to the visual spec (https://link/to/visual/spec/) that displays the filters on
+phone devices.
+At step 2 the filter view should be visible.
 ```
 
 > Notice that in the example we reference a visual spec/mockup instead of a behavior spec. This can vary depending on the nature of the bug.
