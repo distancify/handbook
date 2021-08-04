@@ -67,10 +67,11 @@ This section contain a step-by-step guide on various tasks that you need to go t
 * [Facilitate a meeting](sop/meetings/facilitate-a-meeting.md)
 * [Respond to a meeting invitation](sop/meetings/respond-to-a-meeting-invitation.md)
 * [Attend a meeting](sop/meetings/attend-a-meeting.md)
-* The Stand-up
+* [The Stand-up](sop/meetings/the-stand-up.md)
 
 ### Policies
 
+* [Async Stand-up](policies/async-stand-up.md)
 * [Acceptance Criteria Format](policies/acceptance-criteria-format.md)
 * [Code Owners](policies/code-owners.md)
 * [Coding conventions](policies/coding-conventions.md)
