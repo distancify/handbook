@@ -52,9 +52,12 @@ This section contain a step-by-step guide on various tasks that you need to go t
 
 #### Release Manager
 
-* [Assigning Release Manager to a Release](sop/release-manager/assigning-release-manager-to-a-release.md)
+* [Create Release Board Item](sop/release-manager/create-release.md)
 * Push Release Candidate (RC) to staging
-* Deploy to production (Saas software)
+* Lock release
+* Write and distribute release notes
+* **SaaS software:** Deploy to production
+* **Shipped software:** Package new release
 
 #### Support
 

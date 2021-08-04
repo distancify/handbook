@@ -23,4 +23,4 @@ Contact Kristoffer to get your ticket. The license is registered on your car and
 
 ### Visitors
 
-If you're visiting, you can find a parking ticket for the day in the entrance of "Växthuset".
+If you're visiting, you can scan the QR code which you find in all entrances to register a daily pass using your phone.
