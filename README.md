@@ -13,13 +13,7 @@ In order to effectively read and understand the content of this Handbook, it's g
 * [Our Values](general/our-values.md)
 * [Documentation](general/documentation.md)
 * [Definitions](definitions/definitions.md)
-
-### Your First Day
-
-This section contain a step-by-step guide on various tasks that you need to go through when you start working at Distancify.
-
-* [1. Calendar Sharing](first-day/1-calendar-sharing.md)
-* [2. Absence.io](first-day/2-absence-io.md)
+* [Your First Day](general/first-day.md)
 
 ### Standard Operating Proceedures
 
