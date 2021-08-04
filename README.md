@@ -53,11 +53,12 @@ This section contain a step-by-step guide on various tasks that you need to go t
 #### Release Manager
 
 * [Create Release Board Item](sop/release-manager/create-release.md)
-* Push Release Candidate (RC) to staging
+* **(SaaS)** Push Release Candidate (RC) to staging
+* **(Shipped)** Ship pre-release
 * Lock release
 * Write and distribute release notes
-* **SaaS software:** Deploy to production
-* **Shipped software:** Package new release
+* Ship final release
+* Managing hotfix/bugfix releases
 
 #### Support
 

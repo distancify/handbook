@@ -22,7 +22,25 @@ The naming of Shipped Software releases follow [SemVer](https://semver.org/). Co
 
 ## Create work item
 
-
+1. Go to the [Release Board](https://dev.azure.com/distancify/Dev/_boards/board/t/Releases)
+2. Click "New Item"
+3. Select "Release" in the drop-down
+4. Enter the name of the release, for example "J55" for a SaaS project, or "1.2" for Shipped Software
+5. Open the newly created Work item
+6. Set Area to match the current project: "Dev/Releases/&lt;project&gt;"
+7. Click "Save & Close"
+8. Drag the Release into the "Development" column and the correct Swimlane
 
 ## Identify and link branches
 
+> This is only really related to **SaaS projects**, as shipped software are generally released from the master/main branch at the time of locking a release. A Shipped Software Release item generally don't have a specific branch until it's released, in which case major and minor versions gets their own branches to maintain parallell bugfixing.
+>
+> Refer to [Lock Release](lock-release.md) for Shipped software branch links.
+
+Once the Release item is created an in the correct place:
+
+1. Open it up again
+2. In the "Development" section on the right hand of the item form, click "Add link"
+3. In "Link type", select **Branch**
+4. Select a related "Repository"
+5. Select the related branch
