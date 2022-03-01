@@ -2,7 +2,7 @@
 
 # Submitting a Bug Report
 
-In Azure DevOps, each project has a sibling called "&lt;project name&gt;-Support", this is where you should submit your bug.
+Bugs are to be submitted to the project's or clients main backlog in Azure DevOps.
 
 ## Bug Description
 

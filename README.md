@@ -56,9 +56,10 @@ In order to effectively read and understand the content of this Handbook, it's g
 
 #### Support
 
-* Responding to a support request
+* [Responding to a support request](sop/support/responding-to-a-support-request.md)
 * Responding to an incident
 * [Submitting a Bug Report](sop/support/submitting-a-bug-report.md)
+* [Writing a Solution](sop/support/writing-a-solution.md)
 
 #### Meetings
 
