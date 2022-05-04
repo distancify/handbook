@@ -46,13 +46,8 @@ In order to effectively read and understand the content of this Handbook, it's g
 
 #### Release Manager
 
-* [Create Release Board Item](sop/release-manager/create-release.md)
-* **(SaaS)** Push Release Candidate (RC) to staging
-* **(Shipped)** Ship pre-release
-* Lock release
-* Write and distribute release notes
-* Ship final release
-* Managing hotfix/bugfix releases
+* [SaaS Releases](sop/release-manager/saas.md)
+* Shipped Software
 
 #### Support
 
