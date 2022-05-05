@@ -8,7 +8,7 @@ Releases follows the sprints:
 
 - Create Release Board Item
 - After the sprint:
-  - Create and Deploy Release Candidate (RC) to Staging
+  - Create and Deploy Version to Staging
 - After testing and approval by client:
   - Upon Client Approval
   - Deploy to production
@@ -60,7 +60,7 @@ Production deploys are done through Octopus Deploy. All deploys should be fully 
 
 1. Find the **Version** in Octopus and click `Deploy to Production`.
 2. Once deployed, perform any post-deployment tasks
-   These tasks should be added to the Release work item (see [Create and Deploy Release Candidate (RC) to Staging](create-and-deploy-release-candidate-rc-to-staging) section). If possible, they should be performed by the Release Manager, but if not possible, a Developer may be called in during the deployment.
+   These tasks should be added to the Release work item (see [Create and Deploy Version to Staging](create-and-deploy-version-to-staging) section). If possible, they should be performed by the Release Manager, but if not possible, a Developer may be called in during the deployment.
 3. Merge the `next` branch to `master/main` branch (but don't delete it, leave it for future PRs)
 4. Write a proper Release Notes document in the project's related customer accessible wiki
 
