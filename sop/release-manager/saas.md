@@ -64,3 +64,30 @@ Production deploys are done through Octopus Deploy. All deploys should be fully 
 3. Merge the `next` branch to `master/main` branch (but don't delete it, leave it for future PRs)
 4. Write a proper Release Notes document in the project's related customer accessible wiki
 
+## Release Work Item Description Example
+
+Below is an example of a **Description** field:
+
+```
+## v66.1
+
+### Features
+
+- #5501
+- #5530
+- #4050
+- Optimized CSS bundle. Notice that there can be changes not tied to a work item like this one
+- #4525
+  It's also possible to further explain what the change from a work item does if necessary, like this
+
+### Fixes
+
+- #5601
+- #3054
+
+## v66.2
+
+### Features
+
+- #5506
+```

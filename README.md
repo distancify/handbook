@@ -42,7 +42,6 @@ In order to effectively read and understand the content of this Handbook, it's g
 * Create Pull Request
 * Record demo
 * [Reviewing a Pull Request](sop/developer/reviewing-a-pull-request.md)
-* [Complete work (Merge & update release document)](sop/developer/complete-work.md)
 
 #### Release Manager
 
