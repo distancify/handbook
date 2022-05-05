@@ -33,11 +33,12 @@ Each project generally have one repository (with a few exceptions, refer to proj
    2. If the PR is **not** connected to a PBI:
       1. Add a link to the PR in the Release work item description using the `!<number>` notation.
    2. If the PR is connected to a PBI:
-      1. Add a link to the PBI in the Release work item description using the `#<number>` notation.
-      2. Open up the PBI
-      3. Verify that the PBI has a Customer summary (text or video link)
-      4. Set the PBI to `Done`
-      5. If the PBI has child Task work items, move them to the Release work item, as they are to be performed at deploy
+      1. Ensure the related PBI is in State *Reviewed*
+      2. Add a link to the PBI in the Release work item description using the `#<number>` notation.
+      3. Open up the PBI
+      4. Verify that the PBI has a Customer summary (text or video link)
+      5. Set the PBI to `Done`
+      6. If the PBI has child Task work items, move them to the Release work item, as they are to be performed at deploy
 3. Create a `tag` on the latest commit of the `next` branch, name the tag `v<sprint>.1`, for example `v66.1` for the first RC of sprint 66.
    This will autmatically build and deploy the version to a staging environment.
 4. Notify testers (internal and client) that there is a new RC available for test.
