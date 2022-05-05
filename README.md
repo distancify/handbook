@@ -39,7 +39,6 @@ In order to effectively read and understand the content of this Handbook, it's g
 * Write feature spec
 * [Implement a pbi](sop/developer/implement-a-pbi.md)
 * [Test and Submit Results](sop/developer/test-and-submit-results.md)
-* Create Pull Request
 * Record demo
 * [Reviewing a Pull Request](sop/developer/reviewing-a-pull-request.md)
 

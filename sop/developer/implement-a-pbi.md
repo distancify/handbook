@@ -94,3 +94,7 @@ Perferably, all projects would use the same guidelines, but they sometimes vary.
 ## 4. Committing code
 
 Commit changes to your development branch created in step 2. Refer to our [policy on commit messages](../../policies/commit-messages.md) for more information.
+
+## 5. Create Pull Request (PR) (SaaS Projects)
+
+Once the work has been completed. Create a Pull Request against the `next` branch in the repository. If there's no `next` branch, consult the project's **Release Manager**.
