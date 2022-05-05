@@ -41,6 +41,7 @@ In order to effectively read and understand the content of this Handbook, it's g
 * [Test and Submit Results](sop/developer/test-and-submit-results.md)
 * Record demo
 * [Reviewing a Pull Request](sop/developer/reviewing-a-pull-request.md)
+* [Create Pull Request](/sop/developer/create-pull-request.md)
 
 #### Release Manager
 
