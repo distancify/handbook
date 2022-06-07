@@ -10,8 +10,9 @@ Since by [definition](../../definitions/bug.md), a bug is always tied to previou
 
 Apart from a reference to a previous spec, a bug must include:
 
-- The steps needed to reproduce/demonstrate the issue, either as a numbered list or a video. Screenshots are also welcome. Clarity is more important than format.
+- The steps needed to reproduce/demonstrate the issue, either as a numbered list or a video. Screenshots are also welcome. Clarity is more important than format
 - An explanation why this is a bug and what the expected behaviour should be
+- *Severity* should be set according to how many users are affected and in which way they are affected
 
 Feel free to use the following template when creating a bug:
 
