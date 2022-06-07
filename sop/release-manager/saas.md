@@ -39,11 +39,11 @@ Each project generally have one repository (with a few exceptions, refer to proj
       4. Verify that the PBI has a Customer summary (text or video link)
       5. Set the PBI to `Done`
       6. If the PBI has child Task work items, move them to the Release work item, as they are to be performed at deploy
-3. Create a `tag` on the latest commit of the `next` branch, name the tag `v<sprint>.1`, for example `v66.1` for the first RC of sprint 66.
+3. Create a `tag` on the latest commit of the `next` branch, name the tag `v<sprint>.1`, for example `v66.1` for the first Version of sprint 66.
    This will autmatically build and deploy the version to a staging environment.
-4. Notify testers (internal and client) that there is a new RC available for test.
+4. Notify testers (internal and client) that there is a new Version available for test.
 
-If the testers find bugs, they are to be added to the Release work item and fixed by developers. Once fixed, another RC should be deployed. Simply create a new tag named `v66.2`, increasing the second number for each new RC.
+If the testers find bugs, they are to be added to the Release work item and fixed by developers. Once fixed, another RC should be deployed. Simply create a new tag named `v66.2`, increasing the second number for each new Version.
 
 ## Upon Client Approval
 
@@ -51,8 +51,9 @@ Once we get approval from the client:
 
 1. Rename the work item according to the approved version, for example `v66.1`
 2. Set Release status to `Ready for production`
-3. Create a new release work item for the next release, following [Create Release Board Item](#create-release-board-item)
-4. Contact client and decide on a release date
+3. Request a deploy risk assessment from a Senior developer
+4. Create a new release work item for the next release, following [Create Release Board Item](#create-release-board-item)
+5. Contact client and decide on a release date
    Although deploys are generally seamless, it's always good to pick a time based on user activities, to avoid uneccessary interruptions in case there's a problem
 
 ## Deploy to Production
